@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Central Library (Brooklyn Public Library)",
+    "image": "https://en.wikipedia.org/wiki/Central_Library_(Brooklyn_Public_Library)#/media/File:Brooklyn_Public_Library_(93880p).jpg",
+    "location": "10 Grand Army Plaza, Brooklyn, NY 11238",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Library_(Brooklyn_Public_Library)"
+  },
+  {
+    "name": "Arthur W. Diamond Law Library",
+    "image": "https://bwog.com/wp-content/uploads/2017/03/librarySEAL_071.jpg",
+    "location": "435 West 116th Street, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arthur_W._Diamond_Law_Library"
+  },
+  {
+    "name": "Avery Architectural and Fine Arts Library",
+    "image": "https://en.wikipedia.org/wiki/Avery_Architectural_and_Fine_Arts_Library#/media/File:Avery_Library,_Columbia_University_in_the_City_of_New_York.jpg",
+    "location": "1172 Amsterdam Avenue, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Avery_Architectural_and_Fine_Arts_Library"
+  },
+  {
+    "name": "Butler Library",
+    "image": "https://en.wikipedia.org/wiki/Butler_Library#/media/File:ReferenceButler.jpg",
+    "location": "535 West 114th Street, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Butler_Library"
+  },
+  {
+    "name": "C.V. Starr East Asian Library",
+    "image": "https://en.wikipedia.org/wiki/C.V._Starr_East_Asian_Library#/media/File:Starrlibrary.jpg",
+    "location": "300 Kent Hall, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/C.V._Starr_East_Asian_Library"
+  },
+  {
+    "name": "Gottesman Libraries",
+    "image": "https://images.squarespace-cdn.com/content/v1/5d0e1f92156c470001eeb814/1567958344052-SAXME1GY8ODN8UHPA3B2/NYPLGottesman1.jpg",
+    "location": "525 West 120th Street, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Teachers_College,_Columbia_University"
+  },
+  {
+    "name": "Rare Book & Manuscript Library",
+    "image": "https://en.wikipedia.org/wiki/Rare_Book_and_Manuscript_Library#/media/File:Butler_Library_Columbia_University.jpg",
+    "location": "535 West 114th Street, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rare_Book_%26_Manuscript_Library"
+  },
+  {
+    "name": "The Cloisters",
+    "image": "https://en.wikipedia.org/wiki/The_Cloisters#/media/File:The_Met_Cloisters.jpg",
+    "location": "99 Margaret Corbin Drive, New York, NY 10040",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Cloisters"
+  },
+  {
+   "name": "Cooper Hewitt, Smithsonian Design Museum",
+    "image": "https://en.wikipedia.org/wiki/Cooper_Hewitt,_Smithsonian_Design_Museum#/media/File:Cooper_Hewitt_(48059131921).jpg",
+    "location": "2 East 91st Street, New York, NY 10128",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cooper_Hewitt,_Smithsonian_Design_Museum"
+  },
+  {
+    "name": "Dag Hammarskjöld Library",
+    "image": "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld_Library#/media/File:Dag_Hammarskj%C3%B6ld_Library_0856.JPG",
+    "location": "405 East 42nd Street, New York, NY 10017",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld_Library"
+  },
+  {
+    "name": "Elmer Holmes Bobst Library",
+    "image": "https://en.wikipedia.org/wiki/Elmer_Holmes_Bobst_Library#/media/File:NYU's_Bobst_library-2.jpg",
+    "location": "70 Washington Square South, New York, NY 10012",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elmer_Holmes_Bobst_Library"
+  },
+  {
+    "name": "Frick Art Research Library",
+    "image": "https://en.wikipedia.org/wiki/Frick_Art_Research_Library#/media/File:Frick_Art_Reference_Library_02.JPG",
+    "location": "10 East 71st Street, New York, NY 10021",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Frick_Art_Reference_Library"
+  },
+  {
+    "name": "Morgan Library & Museum",
+    "image": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum#/media/File:Morgan_Library_&_Museum,_New_York_2017_02.jpg",
+    "location": "225 Madison Avenue, New York, NY 10016",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum"
+  },
+  {
+    "name": "Andrew Heiskell Braille and Talking Book Library",
+    "image": "https://en.wikipedia.org/wiki/Andrew_Heiskell_Braille_and_Talking_Book_Library#/media/File:Andrew_Heiskell_NYPL_40_W20_jeh.jpg",
+    "location": "40 West 20th Street, New York, NY 10011",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Andrew_Heiskell_Braille_and_Talking_Book_Library"
+  },
+  {
+    "name": "Bronx Library Center",
+    "image": "https://en.wikipedia.org/wiki/Bronx_Library_Center#/media/File:Bronx_Library_Center.jpg",
+    "location": "310 East Kingsbridge Road, Bronx, NY 10458",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_Library_Center"
+  },
+  {
+    "name": "New York Public Library for the Performing Arts",
+    "image": "https://en.wikipedia.org/wiki/New_York_Public_Library_for_the_Performing_Arts#/media/File:LPA_at_night.jpg",
+    "location": "40 Lincoln Center Plaza, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Public_Library_for_the_Performing_Arts"
+  },
+  {
+    "name": "New York Public Library Main Branch",
+    "image": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch#/media/File:New_York_Public_Library_-_Main_Branch_(51396225599).jpg",
+    "location": "476 5th Avenue, New York, NY 10018",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch"
+  },
+  {
+    "name": "Schomburg Center for Research in Black Culture",
+    "image": "https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture#/media/File:Schomburg_Center_for_Research_in_Black_Culture_(52008381132).jpg",
+    "location": "515 Malcolm X Boulevard, New York, NY 10037",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture"
+  },
+  {
+    "name": "Science, Industry and Business Library",
+    "image": "https://en.wikipedia.org/wiki/Science,_Industry_and_Business_Library#/media/File:B._Altman_Building_Madison_Avenue_street_facade.jpg",
+    "location": "188 Madison Avenue, New York, NY 10016",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Science,_Industry_and_Business_Library"
+  },
+  {
+    "name": "New York Society Library",
+    "image": "https://en.wikipedia.org/wiki/New_York_Society_Library#/media/File:New_York_Society_Library_(48059130471).jpg",
+    "location": "53 East 79th Street, New York, NY 10075",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Society_Library"
+  },
+  {
+    "name": "Poets House",
+    "image": "https://en.wikipedia.org/wiki/Poets_House#/media/File:Poets_House_10_River_Terrace_jeh.jpg",
+    "location": "10 River Terrace, New York, NY 10282",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Poets_House"
+  },
+  {
+    "name": "Queens Public Library",
+    "image": "https://en.wikipedia.org/wiki/Queens_Public_Library#/media/File:QL_Central_Library.jpg",
+    "location": "89-11 Merrick Boulevard, Jamaica, NY 11432",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_Public_Library"
+  },
+  {
+    "name": "New York Academy of Medicine Library",
+    "image": "https://en.wikipedia.org/wiki/New_York_Academy_of_Medicine#/media/File:2015_New_York_Academy_of_Medicine_2_East_103rd_Street.jpg",
+    "location": "1216 5th Avenue, New York, NY 10029",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Academy_of_Medicine"
+  }
+]

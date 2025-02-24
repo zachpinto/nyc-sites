@@ -1,0 +1,656 @@
+[
+  {
+    "name": "American Museum of Natural History",
+    "image": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History#/media/File:USA-NYC-American_Museum_of_Natural_History.JPG",
+    "location": "200 Central Park West, New York, NY 10024",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"
+  },
+  {
+    "name": "America's Response Monument",
+    "image": "https://en.wikipedia.org/wiki/America%27s_Response_Monument#/media/File:America's_Response_Monument-De_Oppresso_Liber.jpg",
+    "location": "Liberty Park, New York, NY 10006",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/America's_Response_Monument"
+  },
+  {
+    "name": "Apollo Theater",
+    "image": "https://en.wikipedia.org/wiki/Apollo_Theater#/media/File:Harlem_-_Apollo_Theater_(48555309512).jpg",
+    "location": "253 W 125th St, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Apollo_Theater"
+  },
+  {
+    "name": "Bank of America Tower",
+    "image": "https://en.wikipedia.org/wiki/Bank_of_America_Tower_(Manhattan)#/media/File:Bank_of_America_Tower_in_Manhattan_2015.jpg",
+    "location": "1 Bryant Park, New York, NY 10036",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bank_of_America_Tower"
+  },
+  {
+    "name": "Battery Park",
+    "image": "https://en.wikipedia.org/wiki/The_Battery_(Manhattan)#/media/File:Battery_Park.JPG",
+    "location": "Battery Park, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Battery_Park"
+  },
+  {
+    "name": "Castle Clinton",
+    "image": "https://en.wikipedia.org/wiki/Castle_Clinton#/media/File:Habs_castle_clinton.jpg",
+    "location": "Battery Park, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Castle_Clinton"
+  },
+  {
+    "name": "East Coast Memorial",
+    "image": "https://en.wikipedia.org/wiki/The_Battery_(Manhattan)#/media/File:New_York_City_Battery_Park_War_Memorial_01.jpg",
+    "location": "Battery Park, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Battery_(Manhattan)#East_Coast_Memorial"
+  },
+  {
+    "name": "The Sphere",
+    "image": "https://en.wikipedia.org/wiki/The_Sphere#/media/File:The_sphere.jpg",
+    "location": "Liberty Park, New York, NY 10006",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Sphere"
+  },
+  {
+    "name": "Battery Park City Ferry Terminal",
+    "image": "https://en.wikipedia.org/wiki/Battery_Park_City_Ferry_Terminal#/media/File:Battery_Park_City_Ferry_Terminal.jpg",
+    "location": "Vesey St, New York, NY 10281",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Battery_Park_City_Ferry_Terminal"
+  },
+  {
+    "name": "Brill Building",
+    "image": "https://en.wikipedia.org/wiki/Brill_Building#/media/File:The_Brill_Building_(54077164908).jpg",
+    "location": "1619 Broadway, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brill_Building"
+  },
+  {
+    "name": "Bronx Zoo",
+    "image": "https://en.wikipedia.org/wiki/Bronx_Zoo#/media/File:Bronx_Zoo_001.jpg",
+    "location": "2300 Southern Blvd, Bronx, NY 10460",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_Zoo"
+  },
+  {
+    "name": "Brooklyn Botanic Garden",
+    "image": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden#/media/File:Brooklyn_Botanic_Garden_-_20200911_-_03_-_Osborne_Garden.jpg",
+    "location": "990 Washington Ave, Brooklyn, NY 11225",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden"
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "image": "https://en.wikipedia.org/wiki/Brooklyn_Bridge#/media/File:Brooklyn_Bridge_Manhattan.jpg",
+    "location": "Brooklyn Bridge, New York, NY 10038",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+  },
+  {
+    "name": "Brooklyn Museum",
+    "image": "https://en.wikipedia.org/wiki/Brooklyn_Museum#/media/File:Brooklyn_Museum_-_Entrance_(52302265063).jpg",
+    "location": "200 Eastern Pkwy, Brooklyn, NY 11238",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Museum"
+  },
+  {
+    "name": "Brooklyn Public Library",
+    "image": "https://en.wikipedia.org/wiki/Central_Library_(Brooklyn_Public_Library)#/media/File:Brooklyn_Public_Library_(93880p).jpg",
+    "location": "10 Grand Army Plaza, Brooklyn, NY 11238",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Public_Library"
+  },
+  {
+    "name": "Bryant Park",
+    "image": "https://en.wikipedia.org/wiki/Bryant_Park#/media/File:New-York_-_Bryant_Park.jpg",
+    "location": "Bryant Park, New York, NY 10018",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bryant_Park"
+  },
+  {
+    "name": "Carnegie Hall",
+    "image": "https://en.wikipedia.org/wiki/Carnegie_Hall#/media/File:Carnegie_Hall_-_Full_(48155558466).jpg",
+    "location": "881 7th Ave, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Carnegie_Hall"
+  },
+  {
+    "name": "Cathedral of St. John the Divine",
+    "image": "https://en.wikipedia.org/wiki/Cathedral_of_St._John_the_Divine#/media/File:St._John_the_Divine_Cathedral.jpg",
+    "location": "1047 Amsterdam Ave, New York, NY 10025",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cathedral_of_St._John_the_Divine"
+  },
+  {
+    "name": "Central Park",
+    "image": "https://en.wikipedia.org/wiki/Central_Park#/media/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg",
+    "location": "Central Park, New York, NY 10024",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Park"
+  },
+  {
+    "name": "Central Park Zoo",
+    "image": "https://en.wikipedia.org/wiki/Central_Park_Zoo#/media/File:Central_Park_Zoo_area.jpg",
+    "location": "Central Park Zoo, E 64th St, New York, NY 10021",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Park_Zoo"
+  },
+  {
+    "name": "Strawberry Fields",
+    "image": "https://en.wikipedia.org/wiki/Strawberry_Fields_(memorial)#/media/File:2960-Central_Park-Strawberry_Fields.JPG",
+    "location": "Q2GG+83, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Strawberry_Fields_(memorial)"
+  },
+  {
+    "name": "Chelsea Piers",
+    "image": "https://en.wikipedia.org/wiki/Chelsea_Piers#/media/File:Chelsea_Piers.jpg",
+    "location": "62 Chelsea Piers, New York, NY 10011",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chelsea_Piers"
+  },
+  {
+    "name": "Chrysler Building",
+    "image": "https://en.wikipedia.org/wiki/Chrysler_Building#/media/File:Chrysler_Building_by_David_Shankbone_Retouched.jpg",
+    "location": "405 Lexington Ave, New York, NY 10174",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+    "name": "Citi Field",
+    "image": "https://en.wikipedia.org/wiki/Citi_Field#/media/File:Citi_Field_Night_Game.jpg",
+    "location": "Citi Field, 123-01 Roosevelt Ave, Flushing, NY 11368",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Citi_Field"
+  },
+  {
+    "name": "Cleopatra's Needle",
+    "image": "https://en.wikipedia.org/wiki/Cleopatra%27s_Needle_(New_York_City)#/media/File:Central_Park_New_York_May_2017_004.jpg",
+    "location": "Central Park, New York, NY 10024",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cleopatra's_Needle"
+  },
+  {
+    "name": "College Point Little League Building",
+    "image": "https://en.wikipedia.org/wiki/College_Point_Little_League_Building#/media/File:Firemen's_Hall,_College_Point,_NY.jpg",
+    "location": "125-02 25th Ave, College Point, NY 11356",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/College_Point_Little_League_Building"
+  },
+  {
+    "name": "Columbia University",
+    "image": "https://en.wikipedia.org/wiki/Columbia_University#/media/File:Columbia_College_Walk.jpg",
+    "location": "116th St & Broadway, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Columbia_University"
+  },
+  {
+    "name": "Columbus Circle",
+    "image": "https://en.wikipedia.org/wiki/Columbus_Circle#/media/File:Columbus_Circle_in_New_York_City.jpg",
+    "location": "Columbus Circle, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Columbus_Circle"
+  },
+  {
+    "name": "Downtown Athletic Club",
+    "image": "https://en.wikipedia.org/wiki/Downtown_Athletic_Club#/media/File:20_and_21_West_Street_from_Washington_Street.jpg",
+    "location": "20 West Street, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Downtown_Athletic_Club"
+  },
+  {
+    "name": "East River Park",
+    "image": "https://en.wikipedia.org/wiki/East_River_Park#/media/File:East_River_Park_walkway.jpg",
+    "location": "East River Park, New York, NY 10002",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/East_River_Park"
+  },
+  {
+    "name": "East River State Park",
+    "image": "https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park#/media/File:East_River_State_Park.jpg",
+    "location": "90 Kent Ave, Brooklyn, NY 11211",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/East_River_State_Park"
+  },
+  {
+    "name": "Eleanor Roosevelt Monument",
+    "image": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt_Monument#/media/File:Eleanor_Roosevelt_Monument_-_2017-12-02_-_Statue_view_from_North.jpg",
+    "location": "Riverside Dr & 72nd St, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt_Monument"
+  },
+  {
+    "name": "Empire State Building",
+    "image": "https://en.wikipedia.org/wiki/Empire_State_Building#/media/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_Cropped.jpg",
+    "location": "20 W 34th St, New York, NY 10118",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Empire_State_Building"
+  },
+  {
+    "name": "Federal Hall National Memorial",
+    "image": "https://en.wikipedia.org/wiki/Federal_Hall#/media/File:Federal_Hall_(48126566178).jpg",
+    "location": "26 Wall St, New York, NY 10005",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Hall_National_Memorial"
+  },
+  {
+    "name": "Firemen's Memorial",
+    "image": "https://en.wikipedia.org/wiki/Firemen%27s_Memorial_(Manhattan)#/media/File:Firemen's_Memorial_(Manhattan)_2014_jeh.jpg",
+    "location": "Riverside Dr & W 100th St, New York, NY 10025",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Firemen's_Memorial"
+  },
+  {
+    "name": "Flatiron Building",
+    "image": "https://en.wikipedia.org/wiki/Flatiron_Building#/media/File:Edificio_Fuller_(Flatiron)_en_2010_desde_el_Empire_State_crop_boxin.jpg",
+    "location": "175 5th Ave, New York, NY 10010",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Flatiron_Building"
+  },
+  {
+    "name": "Flushing Meadows-Corona Park",
+    "image": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park#/media/File:Flushing_Meadows%E2%80%93Corona_Park.jpg",
+    "location": "Flushing Meadows-Corona Park, Queens, NY 11368",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Flushing_Meadows-Corona_Park"
+  },
+  {
+    "name": "Charging Bull",
+    "image": "https://en.wikipedia.org/wiki/Charging_Bull#/media/File:Charging_Bull_statue.jpg",
+    "location": "Charging Bull, Bowling Green, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charging_Bull"
+  },
+  {
+    "name": "Fordham University",
+    "image": "https://en.wikipedia.org/wiki/Fordham_University#/media/File:Walsh_Library,_Fordham.jpg",
+    "location": "441 E Fordham Rd, Bronx, NY 10458",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fordham_University"
+  },
+  {
+    "name": "George Gustav Heye Center",
+    "image": "https://en.wikipedia.org/wiki/George_Gustav_Heye_Center#/media/File:The_National_Museum_of_the_American_Indian%E2%80%93New_York_(George_Gustav_Heye_Center)_(51522244534).jpg",
+    "location": "1 Bowling Green, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/George_Gustav_Heye_Center"
+  },
+  {
+    "name": "George Washington Bridge",
+    "image": "https://en.wikipedia.org/wiki/George_Washington_Bridge#/media/File:George_Washington_Bridge_from_New_Jersey-edit.jpg",
+    "location": "George Washington Bridge, New York, NY 10033",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/George_Washington_Bridge"
+  },
+  {
+    "name": "Gracie Mansion",
+    "image": "https://en.wikipedia.org/wiki/Gracie_Mansion#/media/File:Gracie_Mansion_snow_jeh.jpg",
+    "location": "88th St & East End Ave, New York, NY 10128",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gracie_Mansion"
+  },
+  {
+    "name": "Grand Army Plaza",
+    "image": "https://en.wikipedia.org/wiki/Grand_Army_Plaza#/media/File:Grand_Army_Plaza_Brooklyn_New_York_August_2013.jpg",
+    "location": "Grand Army Plaza, Brooklyn, NY 11238",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Army_Plaza"
+  },
+  {
+    "name": "Grand Central Terminal",
+    "image": "https://en.wikipedia.org/wiki/Grand_Central_Terminal#/media/File:GCT_in_Blizzard_of_2015.jpg",
+    "location": "89 E 42nd St, New York, NY 10017",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+  },
+  {
+    "name": "General Grant National Memorial",
+    "image": "https://en.wikipedia.org/wiki/Grant%27s_Tomb#/media/File:General_Grant_National_Memorial_New_York_November_2016_003.jpg",
+    "location": "Riverside Dr & W 122nd St, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Grant_National_Memorial"
+  },
+  {
+    "name": "Green-Wood Cemetery",
+    "image": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery#/media/File:Green-Wood_Cemetery_gate_(53784p)_cropped.jpg",
+    "location": "500 25th St, Brooklyn, NY 11232",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery"
+  },
+  {
+    "name": "Hall of Fame for Great Americans",
+    "image": "https://en.wikipedia.org/wiki/Hall_of_Fame_for_Great_Americans#/media/File:HallofFameColumns.jpg",
+    "location": "Hall of Fame Terrace, Bronx, NY 10453",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hall_of_Fame_for_Great_Americans"
+  },
+  {
+    "name": "Harvard Club of New York City",
+    "image": "https://en.wikipedia.org/wiki/Harvard_Club_of_New_York_City#/media/File:Harvardcny.JPG",
+    "location": "35 W 44th St, New York, NY 10036",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Harvard_Club_of_New_York_City"
+  },
+  {
+    "name": "Historic Richmond Town",
+    "image": "https://en.wikipedia.org/wiki/Historic_Richmond_Town#/media/File:RIchmondTownBOOTH.jpg",
+    "location": "441 Clarke Ave, Staten Island, NY 10306",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Historic_Richmond_Town"
+  },
+  {
+    "name": "Holland Tunnel",
+    "image": "https://en.wikipedia.org/wiki/Holland_Tunnel#/media/File:Holland_Tunnel_Eastbound.jpg",
+    "location": "Holland Tunnel, New York, NY 10013",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Holland_Tunnel"
+  },
+  {
+    "name": "Intrepid Sea, Air & Space Museum",
+    "image": "https://en.wikipedia.org/wiki/Intrepid_Museum#/media/File:Intrepid_Museum_(49052290092).jpg",
+    "location": "Pier 86, W 46th St & 12th Ave, New York, NY 10036",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Intrepid_Sea,_Air_&_Space_Museum"
+  },
+  {
+    "name": "Irish Hunger Memorial",
+    "image": "https://en.wikipedia.org/wiki/Irish_Hunger_Memorial#/media/File:HungerMemorialNumber6.JPG",
+    "location": "290 Vesey St, New York, NY 10281",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Irish_Hunger_Memorial"
+  },
+  {
+    "name": "Lincoln Center for the Performing Arts",
+    "image": "https://en.wikipedia.org/wiki/Lincoln_Center#/media/File:Lincoln_Center_Overview_(48047495362).jpg",
+    "location": "10 Lincoln Center Plaza, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_Center_for_the_Performing_Arts"
+  },
+  {
+    "name": "Avery Fisher Hall",
+    "image": "https://en.wikipedia.org/wiki/David_Geffen_Hall#/media/File:David_Geffen_Hall_(48047408511).jpg",
+    "location": "10 Lincoln Center Plaza, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Avery_Fisher_Hall"
+  },
+  {
+    "name": "David H. Koch Theater",
+    "image": "https://en.wikipedia.org/wiki/David_H._Koch_Theater#/media/File:David_H_Koch_Theater_(48269670522).jpg",
+    "location": "20 Lincoln Center Plaza, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/David_H._Koch_Theater"
+  },
+  {
+    "name": "High Line",
+    "image": "https://en.wikipedia.org/wiki/High_Line#/media/File:The_High_Line,_New_York_(17643199203).jpg",
+    "location": "High Line, New York, NY 10011",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/High_Line"
+  },
+  {
+    "name": "Ellis Island",
+    "image": "https://en.wikipedia.org/wiki/Ellis_Island#/media/File:Aerial_view_of_Ellis_Island,_Jersey_City,_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+    "location": "Ellis Island, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ellis_Island"
+  },
+  {
+    "name": "Broadway Theatre",
+    "image": "https://en.wikipedia.org/wiki/Broadway_theatre#/media/File:Broadway_Theaters_45th_Street_Night.jpg",
+    "location": "1681 Broadway, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Broadway_Theatre"
+  },
+  {
+    "name": "South Street Seaport",
+    "image": "https://en.wikipedia.org/wiki/South_Street_Seaport#/media/File:South_Street_Seaport,_Detroit_Photographic_Company_(0616).jpg",
+    "location": "South Street Seaport, New York, NY 10038",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/South_Street_Seaport"
+  },
+  {
+    "name": "Metropolitan Opera",
+    "image": "https://en.wikipedia.org/wiki/Metropolitan_Opera#/media/File:Metropolitan_Opera_House,_Lincoln_Center,_January_30,_2025.jpg",
+    "location": "30 Lincoln Center Plaza, New York, NY 10023",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Opera"
+  },
+  {
+    "name": "Lincoln Tunnel",
+    "image": "https://en.wikipedia.org/wiki/Lincoln_Tunnel#/media/File:Inside_Lincoln_Tunnel_NY_NJ.jpg",
+    "location": "Lincoln Tunnel, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_Tunnel"
+  },
+  {
+    "name": "Lipstick Building",
+    "image": "https://en.wikipedia.org/wiki/Lipstick_Building#/media/File:Lipstick_building,_viewed_from_10th_floor.jpg",
+    "location": "885 3rd Ave, New York, NY 10022",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lipstick_Building"
+  },
+  {
+    "name": "Macy's Herald Square",
+    "image": "https://en.wikipedia.org/wiki/Macy%27s_Herald_Square#/media/File:HeraldSquare-Oct14-1_(30618130907).jpg",
+    "location": "151 W 34th St, New York, NY 10001",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Macy's_Herald_Square"
+  },
+  {
+    "name": "Madison Square Garden",
+    "image": "https://en.wikipedia.org/wiki/Madison_Square_Garden#/media/File:Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg",
+    "location": "4 Pennsylvania Plaza, New York, NY 10001",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Madison_Square_Garden"
+  },
+  {
+    "name": "Manhattan Bridge",
+    "image": "https://en.wikipedia.org/wiki/Manhattan_Bridge#/media/File:Manhattan_Bridge_January_2023_003.jpg",
+    "location": "Manhattan Bridge, New York, NY 10002",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manhattan_Bridge"
+  },
+  {
+    "name": "Manhattan Municipal Building",
+    "image": "https://en.wikipedia.org/wiki/Manhattan_Municipal_Building#/media/File:Manhattan_Municipal_Building_(6215147594).jpg",
+    "location": "1 Centre St, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manhattan_Municipal_Building"
+  },
+  {
+    "name": "Metropolitan Fireproof Warehouse",
+    "image": "https://en.wikipedia.org/wiki/Metropolitan_Fireproof_Warehouse#/media/File:475_Amsterdam_Av_2020_jeh.jpg",
+    "location": "100-104 Hudson St, New York, NY 10013",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Fireproof_Warehouse"
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "image": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art#/media/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg",
+    "location": "1000 5th Ave, New York, NY 10028",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+  },
+  {
+    "name": "MetLife Building",
+    "image": "https://en.wikipedia.org/wiki/MetLife_Building#/media/File:MetLife_Building_by_David_Shankbone.jpg",
+    "location": "200 Park Ave, New York, NY 10166",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/MetLife_Building"
+  },
+  {
+    "name": "Museum of Modern Art",
+    "image": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art#/media/File:MoMa_NY_USA_1.jpg",
+    "location": "11 W 53rd St, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+  },
+  {
+    "name": "National September 11 Memorial & Museum",
+    "image": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum#/media/File:9-11_Memorial_and_Museum_(28815276064).jpg",
+    "location": "180 Greenwich St, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/National_September_11_Memorial_&_Museum"
+  },
+  {
+    "name": "New York City Hall",
+    "image": "https://en.wikipedia.org/wiki/New_York_City_Hall#/media/File:New_York_City_Hall_exterior,_October_2016.jpg",
+    "location": "City Hall Park, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_City_Hall"
+  },
+  {
+    "name": "New York Botanical Garden",
+    "image": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden#/media/File:The_New_York_Botanical_Garden_Visitor_Center.jpg",
+    "location": "2900 Southern Blvd, Bronx, NY 10458",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden"
+  },
+  {
+    "name": "New York Evening Post Building",
+    "image": "https://en.wikipedia.org/wiki/New_York_Evening_Post_Building#/media/File:Ny-evening-post-75-west.jpg",
+    "location": "20 Vesey St, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Evening_Post_Building"
+  },
+  {
+    "name": "New York Life Building",
+    "image": "https://en.wikipedia.org/wiki/New_York_Life_Building#/media/File:New_York_Life_Insurance_Building.jpg",
+    "location": "51 Madison Ave, New York, NY 10010",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Life_Building"
+  },
+  {
+    "name": "New York Public Library",
+    "image": "https://en.wikipedia.org/wiki/New_York_Public_Library#/media/File:Public_Building_Library.jpg",
+    "location": "476 5th Ave, New York, NY 10018",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Public_Library"
+  },
+  {
+    "name": "New York Stock Exchange",
+    "image": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange#/media/File:New_York_Stock_Exchange_Facade_2015.jpg",
+    "location": "11 Wall St, New York, NY 10005",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange"
+  },
+  {
+    "name": "Odd Fellows Hall",
+    "image": "https://en.wikipedia.org/wiki/Odd_Fellows_Hall_(New_York_City)#/media/File:Odd_Fellows_Grand_&_Centre_Sts_sunny_morn_jeh.JPG",
+    "location": "107 Norfolk St, New York, NY 10002",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Odd_Fellows_Hall"
+  },
+  {
+    "name": "Paley Center for Media",
+    "image": "https://en.wikipedia.org/wiki/Paley_Center_for_Media#/media/File:The_Paley_Center_for_Media_(48155560156).jpg",
+    "location": "25 W 52nd St, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Paley_Center_for_Media"
+  },
+  {
+    "name": "Pelham Bay Park",
+    "image": "https://en.wikipedia.org/wiki/Pelham_Bay_Park#/media/File:Pelhambay1.jpg",
+    "location": "Pelham Bay Park, Bronx, NY 10464",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pelham_Bay_Park"
+  },
+  {
+    "name": "Pennsylvania Station",
+    "image": "https://en.wikipedia.org/wiki/New_York_Penn_Station#/media/File:Moynihan_Train_Hall_interior,_Dec_27_2022.jpg",
+    "location": "New York, NY 10119",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania_Station"
+  },
+  {
+    "name": "Pier 11/Wall Street",
+    "image": "https://en.wikipedia.org/wiki/Pier_11/Wall_Street#/media/File:Pier_11-Wall_Street_from_Brooklyn_Bridge_Park.jpg",
+    "location": "Pier 11/Wall Street, New York, NY 10005",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pier_11/Wall_Street"
+  },
+  {
+    "name": "Plaza Hotel",
+    "image": "https://en.wikipedia.org/wiki/Plaza_Hotel#/media/File:New_York_-_Manhattan_-_Plaza_Hotel.jpg",
+    "location": "768 5th Ave, New York, NY 10019",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Plaza_Hotel"
+  },
+  {
+    "name": "Prison Ship Martyrs' Monument",
+    "image": "https://en.wikipedia.org/wiki/Prison_Ship_Martyrs%27_Monument#/media/File:Prison_Ship_Monument.jpg",
+    "location": "Fort Greene Park, Brooklyn, NY 11205",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prison_Ship_Martyrs'_Monument"
+  },
+  {
+    "name": "Prospect Park",
+    "image": "https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn)#/media/File:Prospect_Park_New_York_October_2015_003.jpg",
+    "location": "Prospect Park, Brooklyn, NY 11225",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prospect_Park"
+  },
+  {
+    "name": "Prospect Park Zoo",
+    "image": "https://en.wikipedia.org/wiki/Prospect_Park_Zoo#/media/File:Prospect_Park_Zoo-21-Jan-2006.jpg",
+    "location": "450 Flatbush Ave, Brooklyn, NY 11225",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prospect_Park_Zoo"
+  },
+  {
+    "name": "Queens Museum of Art",
+    "image": "https://en.wikipedia.org/wiki/Queens_Museum#/media/File:Queens_Museum-1.jpg",
+    "location": "New York City Building, Flushing Meadows-Corona Park, Queens, NY 11368",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_Museum_of_Art"
+  },
+  {
+    "name": "Racquet and Tennis Club",
+    "image": "https://en.wikipedia.org/wiki/Racquet_and_Tennis_Club#/media/File:Racquet_and_Tennis_Club_370_Park_Avenue.jpg",
+    "location": "370 Park Ave, New York, NY 10022",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Racquet_and_Tennis_Club"
+  },
+  {
+    "name": "Rockefeller Center",
+    "image": "https://en.wikipedia.org/wiki/Rockefeller_Center#/media/File:GE_Building_by_David_Shankbone.JPG",
+    "location": "45 Rockefeller Plaza, New York, NY 10111",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rockefeller_Center"
+  },
+  {
+    "name": "Radio City Music Hall",
+    "image": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall#/media/File:Radio_City_Music_Hall_(51395756913).jpg",
+    "location": "1260 6th Ave, New York, NY 10020",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall"
+  },
+  {
+    "name": "St. Patrick's Cathedral",
+    "image": "https://en.wikipedia.org/wiki/St._Patrick%27s_Cathedral_(New_York_City)#/media/File:At_New_York,_USA_2017_119.jpg",
+    "location": "5th Ave, New York, NY 10022",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._Patrick's_Cathedral"
+  },
+  {
+    "name": "Seagram Building",
+    "image": "https://en.wikipedia.org/wiki/Seagram_Building#/media/File:Seagram_Building_(35098307116).jpg",
+    "location": "375 Park Ave, New York, NY 10152",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Seagram_Building"
+  },
+  {
+    "name": "Shea Stadium",
+    "image": "https://en.wikipedia.org/wiki/Shea_Stadium#/media/File:Shea_10-12-07.jpg",
+    "location": "123-01 Roosevelt Ave, Flushing, NY 11368",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shea_Stadium"
+  },
+  {
+    "name": "Silvercup Studios",
+    "image": "https://en.wikipedia.org/wiki/Silvercup_Studios#/media/File:Silvercup_sign_20190519_130130.jpg",
+    "location": "42-22 22nd St, Long Island City, NY 11101",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Silvercup_Studios"
+  },
+  {
+    "name": "Solomon R. Guggenheim Museum",
+    "image": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum#/media/File:NYC_-_Guggenheim_Museum.jpg",
+    "location": "1071 5th Ave, New York, NY 10128",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+  },
+  {
+    "name": "Statue of Liberty",
+    "image": "https://en.wikipedia.org/wiki/Statue_of_Liberty#/media/File:Front_view_of_Statue_of_Liberty_with_pedestal_and_base_2024.jpg",
+    "location": "Liberty Island, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+  },
+  {
+    "name": "Times Square",
+    "image": "https://en.wikipedia.org/wiki/Times_Square#/media/File:1_times_square_night_2013.jpg",
+    "location": "Times Square, New York, NY 10036",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Times_Square"
+  },
+  {
+    "name": "Trinity Church",
+    "image": "https://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)#/media/File:Trinity_Church_-_Wall_Street,_New_York,_NY,_USA_-_August_19,_2015_-_panoramio.jpg",
+    "location": "75 Broadway, New York, NY 10006",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Trinity_Church"
+  },
+  {
+    "name": "United Nations Headquarters",
+    "image": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations#/media/File:Midtown_Manhattan_Skyline_004_(cropped).jpg",
+    "location": "405 E 42nd St, New York, NY 10017",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/United_Nations_Headquarters"
+  },
+  {
+    "name": "Vietnam Veterans Plaza",
+    "image": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Plaza#/media/File:NYC_Vietnam_Memorial.jpg",
+    "location": "55 Water St, New York, NY 10041",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Plaza"
+  },
+  {
+    "name": "The Waldorf-Astoria Hotel",
+    "image": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York#/media/File:St_Bartholomews_and_The_Waldorf_Astoria_Hotel.jpg",
+    "location": "301 Park Ave, New York, NY 10022",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Waldorf-Astoria_Hotel"
+  },
+  {
+    "name": "Washington Square Park",
+    "image": "https://en.wikipedia.org/wiki/Washington_Square_Park#/media/File:Washington_Square_Arch-Isabella.jpg",
+    "location": "Washington Square Park, New York, NY 10012",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Washington_Square_Park"
+  },
+  {
+    "name": "New York University campus",
+    "image": "https://en.wikipedia.org/wiki/New_York_University#/media/File:NYU_Stern_School_of_Business_-_Henry_Kaufman_Management_Center_(48072761732).jpg",
+    "location": "New York University, New York, NY 10003",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_University_campus"
+  },
+  {
+    "name": "Williamsburg Bridge",
+    "image": "https://en.wikipedia.org/wiki/Williamsburg_Bridge#/media/File:Williamsburg_Bridge_full.jpg",
+    "location": "Williamsburg Bridge, New York, NY 11211",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Williamsburg_Bridge"
+  },
+  {
+    "name": "Woodlawn Cemetery",
+    "image": "https://en.wikipedia.org/wiki/Woodlawn_Cemetery_(Bronx,_New_York)#/media/File:Woodlawn_north_gate_jeh.JPG",
+    "location": "517 E 233rd St, Bronx, NY 10470",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Woodlawn_Cemetery"
+  },
+  {
+    "name": "Woolworth Building",
+    "image": "https://en.wikipedia.org/wiki/Woolworth_Building#/media/File:The_Woolworth_Building_in_New_York_City_LCCN2013650474.jpg",
+    "location": "233 Broadway, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Woolworth_Building"
+  },
+  {
+    "name": "World Trade Center site",
+    "image": "https://en.wikipedia.org/wiki/World_Trade_Center_site#/media/File:WTCmemorialJune2012.png",
+    "location": "World Trade Center site, New York, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/World_Trade_Center_site"
+  },
+  {
+    "name": "World Financial Center",
+    "image": "https://en.wikipedia.org/wiki/Brookfield_Place_(New_York_City)#/media/File:World_Financial_Center_NY_2011.jpg",
+    "location": "200 Vesey St, New York, NY 10281",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/World_Financial_Center"
+  },
+  {
+    "name": "Yankee Stadium",
+    "image": "https://en.wikipedia.org/wiki/Yankee_Stadium#/media/File:Yankee_Stadium_overhead_2010.jpg",
+    "location": "1 E 161st St, Bronx, NY 10451",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yankee_Stadium"
+  }
+]

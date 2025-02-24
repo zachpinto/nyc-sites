@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bronx Zoo",
+    "image": "https://en.wikipedia.org/wiki/Bronx_Zoo#/media/File:Bronx_Zoo_001.jpg",
+    "location": "2300 Southern Blvd, Bronx, NY 10460",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_Zoo"
+  },
+  {
+    "name": "Brooklyn Botanic Garden",
+    "image": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden#/media/File:Brooklyn_botanic_garden_fragrance_garden_gate.jpg",
+    "location": "990 Washington Ave, Brooklyn, NY 11225",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden"
+  },
+  {
+    "name": "Central Park Zoo",
+    "image": "https://en.wikipedia.org/wiki/Central_Park_Zoo#/media/File:Central_Park_Zoo_entrance.jpg",
+    "location": "64th St and 5th Ave, New York, NY 10021",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Park_Zoo"
+  },
+  {
+    "name": "Jamaica Bay Wildlife Refuge",
+    "image": "https://en.wikipedia.org/wiki/Jamaica_Bay_Wildlife_Refuge#/media/File:Gateway_National_Recreation_Area_Jamaica_Bay_Unit_map.jpg",
+    "location": "Broad Channel, Queens, NY 11693",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica_Bay_Wildlife_Refuge"
+  },
+  {
+    "name": "New York Aquarium",
+    "image": "https://en.wikipedia.org/wiki/New_York_Aquarium#/media/File:Coney_Island_Brooklyn_Sep_2019_38.jpg",
+    "location": "602 Surf Ave, Brooklyn, NY 11224",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Aquarium"
+  },
+  {
+    "name": "New York Botanical Garden",
+    "image": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden#/media/File:The_New_York_Botanical_Garden_Visitor_Center.jpg",
+    "location": "2900 Southern Blvd, Bronx, NY 10458",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden"
+  },
+  {
+    "name": "Prospect Park Zoo",
+    "image": "https://en.wikipedia.org/wiki/Prospect_Park_Zoo#/media/File:Prospect_Park_Zoo-21-Jan-2006.jpg",
+    "location": "450 Flatbush Ave, Brooklyn, NY 11225",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prospect_Park_Zoo"
+  },
+  {
+    "name": "Queens Zoo",
+    "image": "https://en.wikipedia.org/wiki/Queens_Zoo#/media/File:Andean_Bear_at_Queens_Zoo.jpg",
+    "location": "53-51 111th St, Corona, NY 11368",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_Zoo"
+  },
+  {
+    "name": "Staten Island Zoo",
+    "image": "https://en.wikipedia.org/wiki/Staten_Island_Zoo#/media/File:Staten_Island_Zoo_Entrance.jpg",
+    "location": "614 Broadway, Staten Island, NY 10310",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Staten_Island_Zoo"
+  },
+  {
+    "name": "Queens Botanical Garden",
+    "image": "https://en.wikipedia.org/wiki/Queens_Botanical_Garden#/media/File:Entrance_Plaza,_Queens_Botanical_Garden.jpg",
+    "location": "43-50 Main St, Flushing, NY 11355",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_Botanical_Garden"
+  },
+  {
+    "name": "Wave Hill",
+    "image": "https://en.wikipedia.org/wiki/Wave_Hill#/media/File:Wave_hill_house,_August_2019.jpg",
+    "location": "\tWest 249th Street and Independence Avenue, Bronx, NY 10471",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wave_Hill"
+  },
+  {
+    "name": "Queen Elizabeth II September 11th Garden",
+    "image": "https://en.wikipedia.org/wiki/Queen_Elizabeth_II_September_11th_Garden#/media/File:Hanover_Sq_counties_jeh.jpg",
+    "location": "Hanover Square, New York, NY 10005",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queen_Elizabeth_II_September_11th_Garden"
+  },
+  {
+    "name": "Queens County Farm Museum",
+    "image": "https://en.wikipedia.org/wiki/Queens_County_Farm_Museum#/media/File:QFM_farmhouse_jeh.jpg",
+    "location": "73-50 Little Neck Pkwy, Queens, NY 11004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_County_Farm_Museum"
+  },
+  {
+    "name": "Sailors' Snug Harbor",
+    "image": "https://en.wikipedia.org/wiki/Sailors%27_Snug_Harbor#/media/File:Sailors-snug-harbor.jpg",
+    "location": "1000 Richmond Terrace, Staten Island, NY 10301",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sailors%27_Snug_Harbor"
+  },
+  {
+    "name": "New York Chinese Scholar's Garden",
+    "image": "https://en.wikipedia.org/wiki/New_York_Chinese_Scholar%27s_Garden#/media/File:New_York_Chinese_Scholar's_Garden.JPG",
+    "location": "1000 Richmond Terrace, Staten Island, NY 10301",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Chinese_Scholar%27s_Garden"
+  }
+]

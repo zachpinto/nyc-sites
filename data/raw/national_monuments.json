@@ -1,0 +1,56 @@
+[
+  {
+    "name": "African Burial Ground National Monument",
+    "image": "https://en.wikipedia.org/wiki/African_Burial_Ground_National_Monument#/media/File:African_Burial_Ground.jpg",
+    "location": "290 Broadway, New York City, NY 10007",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/African_Burial_Ground_National_Monument"
+  },
+  {
+    "name": "Governors Island National Monument",
+    "image": "https://en.wikipedia.org/wiki/Governors_Island_National_Monument#/media/File:Castle_Williams_Facade.jpg",
+    "location": "Governors Island, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Governors_Island_National_Monument"
+  },
+  {
+    "name": "Statue of Liberty National Monument",
+    "image": "https://en.wikipedia.org/wiki/Statue_of_Liberty_National_Monument#/media/File:Liberty_and_Ellis_Island.jpg",
+    "location": "Liberty Island, New York, NY 10004",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Statue_of_Liberty_National_Monument"
+  },
+  {
+    "name": "Stonewall National Monument",
+    "image": "https://en.wikipedia.org/wiki/Stonewall_National_Monument#/media/File:Stonewall_Inn_5_pride_weekend_2016.jpg",
+    "location": "53 Christopher Street, Greenwich Village, Manhattan, New York City, NY 10014",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stonewall_National_Monument"
+  },
+  {
+    "name": "Federal Hall National Memorial",
+    "image": "https://en.wikipedia.org/wiki/Federal_Hall#/media/File:Federal_Hall_(48126566178).jpg",
+    "location": "26 Wall Street, New York, NY 10005",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Hall"
+  },
+  {
+    "name": "General Grant National Memorial",
+    "image": "https://en.wikipedia.org/wiki/Grant%27s_Tomb#/media/File:General_Grant_National_Memorial_New_York_November_2016_003.jpg",
+    "location": "Riverside Drive and West 122nd Street, New York, NY 10027",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grant%27s_Tomb"
+  },
+  {
+    "name": "Castle Clinton National Monument",
+    "image": "https://en.wikipedia.org/wiki/Castle_Clinton#/media/File:Habs_castle_clinton.jpg",
+    "location": "Battery Park, Manhattan, New York",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Castle_Clinton"
+  },
+  {
+    "name": "Hamilton Grange National Memorial",
+    "image": "https://en.wikipedia.org/wiki/Hamilton_Grange_National_Memorial#/media/File:Hamilton_Grange_National_Memorial_-_Entrance_(48170424452).jpg",
+    "location": "West 141st Street and Hamilton Terrace, Manhattan, New York",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hamilton_Grange_National_Memorial"
+  },
+  {
+    "name": "Theodore Roosevelt Birthplace National Historic Site",
+    "image": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Birthplace_National_Historic_Site#/media/File:Theodore_Roosevelt_Birthplace_from_west.jpg",
+    "location": "28 East 20th Street, Manhattan, New York",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Birthplace_National_Historic_Site"
+  }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "name": "One World Trade Center",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_(33224081040).jpg",
+        "location": "285 Fulton Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_World_Trade_Center"
+    },
+    {
+        "name": "Central Park Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Central_Park_Tower_April_2021.jpg",
+        "location": "225 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Park_Tower"
+    },
+    {
+        "name": "111 West 57th Street",
+        "image": "https://en.wikipedia.org/wiki/File:111_West_57th_Street_from_Top_of_the_Rock.jpg",
+        "location": "111 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/111_West_57th_Street"
+    },
+    {
+        "name": "One Vanderbilt",
+        "image": "https://en.wikipedia.org/wiki/File:One_Vanderbilt_April_2021.jpg",
+        "location": "1 Vanderbilt Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Vanderbilt"
+    },
+    {
+        "name": "432 Park Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:432_Park_Avenue,_NY_(cropped).jpg",
+        "location": "432 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/432_Park_Avenue"
+    },
+    {
+        "name": "270 Park Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:270_Park_Avenue_Photomontage_Day.jpg",
+        "location": "270 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/270_Park_Avenue_(2021%E2%80%93present)"
+    },
+    {
+        "name": "30 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p)_(30_Hudson_Yards).jpg",
+        "location": "500 West 33rd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/30_Hudson_Yards"
+    },
+    {
+        "name": "Empire State Building",
+        "image": "https://en.wikipedia.org/wiki/File:Empire_State_Building_cropped.jpg",
+        "location": "350 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+        "name": "Bank of America Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Bank_of_America_Tower_in_Manhattan_2015.jpg",
+        "location": "1101 Sixth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bank_of_America_Tower_(Manhattan)"
+    },
+    {
+        "name": "3 World Trade Center",
+        "image": "https://en.wikipedia.org/wiki/File:Looking_up_at_3_and_4_World_Trade_Center_(straightened,_cropped,_3).jpg",
+        "location": "175 Greenwich Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/3_World_Trade_Center"
+    },
+    {
+        "name": "The Brooklyn Tower",
+        "image": "https://en.wikipedia.org/wiki/File:The_Brooklyn_Tower_010.jpg",
+        "location": "9 DeKalb Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Brooklyn_Tower"
+    },
+    {
+        "name": "53W53",
+        "image": "https://en.wikipedia.org/wiki/File:53w53Aug9.jpg",
+        "location": "53 West 53rd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/53W53"
+    },
+    {
+        "name": "Chrysler Building",
+        "image": "https://en.wikipedia.org/wiki/File:Chrysler_Building_by_David_Shankbone_Retouched.jpg",
+        "location": "405 Lexington Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chrysler_Building"
+    },
+    {
+        "name": "The New York Times Building",
+        "image": "https://en.wikipedia.org/wiki/File:New_york_times_building.jpg",
+        "location": "620 Eighth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_New_York_Times_Building"
+    },
+    {
+        "name": "The Spiral",
+        "image": "https://en.wikipedia.org/wiki/File:The_Spiral_Sep_2021.jpg",
+        "location": "435 Tenth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Spiral_(New_York_City)"
+    },
+    {
+        "name": "One57",
+        "image": "https://en.wikipedia.org/wiki/File:One57_from_Columbus_Circle,_May_2014.png",
+        "location": "157 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One57"
+    },
+    {
+        "name": "520 Fifth Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:At_New_York_City_2024_033.jpg",
+        "location": "520 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/520_Fifth_Avenue"
+    },
+    {
+        "name": "35 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:Hudson_Yards_facing_east_(cropped,_35).jpg",
+        "location": "532\u2013560 West 33rd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/35_Hudson_Yards"
+    },
+    {
+        "name": "One Manhattan West",
+        "image": "https://en.wikipedia.org/wiki/File:One_Manhattan_West_Completed.jpg",
+        "location": "401 Ninth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Manhattan_West"
+    },
+    {
+        "name": "50 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:50_Hudson_Yards.png",
+        "location": "504 West 34th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/50_Hudson_Yards"
+    },
+    {
+        "name": "4 World Trade Center",
+        "image": "https://en.wikipedia.org/wiki/File:Looking_up_at_3_and_4_World_Trade_Center_(straightened,_cropped,_4).jpg",
+        "location": "150 Greenwich Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/4_World_Trade_Center"
+    },
+    {
+        "name": "70 Pine Street",
+        "image": "https://en.wikipedia.org/wiki/File:American_International_Building3.JPG",
+        "location": "70 Pine Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/70_Pine_Street"
+    },
+    {
+        "name": "220 Central Park South",
+        "image": "https://en.wikipedia.org/wiki/File:220_CPS_fr_9th_Av_jeh.jpg",
+        "location": "220 59th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/220_Central_Park_South"
+    },
+    {
+        "name": "Two Manhattan West",
+        "image": "https://en.wikipedia.org/wiki/File:Manhattan_West_April_2016_3.JPG",
+        "location": "401 West 31st Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Two_Manhattan_West"
+    },
+    {
+        "name": "40 Wall Street",
+        "image": "https://en.wikipedia.org/wiki/File:40_Wall_Street.jpg",
+        "location": "40 Wall Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/40_Wall_Street"
+    },
+    {
+        "name": "Four Seasons Hotel New York Downtown",
+        "image": "https://en.wikipedia.org/wiki/File:30_Park_Place.jpg",
+        "location": "27 Barclay Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Four_Seasons_Hotel_New_York_Downtown"
+    },
+    {
+        "name": "Citigroup Center",
+        "image": "https://en.wikipedia.org/wiki/File:Citigroup_Center,_Manhattan,_Nueva_York,_EEUU.jpg",
+        "location": "601 Lexington Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Citigroup_Center"
+    },
+    {
+        "name": "15 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:Hudson_Yards_facing_east_(cropped,_15).jpg",
+        "location": "545 West 30th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/15_Hudson_Yards"
+    },
+    {
+        "name": "125 Greenwich Street",
+        "image": "https://en.wikipedia.org/wiki/File:125_Greenwich_St_from_Liberty_Park_2020_jeh.jpg",
+        "location": "125 Greenwich Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/125_Greenwich_Street"
+    },
+    {
+        "name": "10 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:10_Hudson_Yards_31_March_2016.png",
+        "location": "501 West 30th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/10_Hudson_Yards"
+    },
+    {
+        "name": "8 Spruce Street",
+        "image": "https://en.wikipedia.org/wiki/File:Beekman_Tower_fr_BB_jeh.jpg",
+        "location": "8 Spruce Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/8_Spruce_Street"
+    },
+    {
+        "name": "Trump World Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Trumpworldtower_23may2005.jpg",
+        "location": "845 United Nations Plaza ( First Avenue ) New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trump_World_Tower"
+    },
+    {
+        "name": "425 Park Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:425_Park_Avenue_NYC_15_April_2021.jpg",
+        "location": "425 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/425_Park_Avenue"
+    },
+    {
+        "name": "262 Fifth Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:262_Fifth_Avenue_Under_Construction_%E2%80%93_July_2023_%E2%80%93_by_MainlyTwelve.jpg",
+        "location": "262 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/262_Fifth_Avenue"
+    },
+    {
+        "name": "30 Rockefeller Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone_cropped.JPG",
+        "location": "30 Rockefeller Plaza New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza"
+    },
+    {
+        "name": "One Manhattan Square",
+        "image": "https://en.wikipedia.org/wiki/File:A624,_One_Manhattan_Square_and_Manhattan_Bridge,_Manhattan,_July_2019.jpg",
+        "location": "250 South Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Manhattan_Square"
+    },
+    {
+        "name": "Sutton Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Sutton_58_Aug_2021.jpg",
+        "location": "426\u2013432 East 58th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sutton_58"
+    },
+    {
+        "name": "The Orchard",
+        "image": "https://en.wikipedia.org/wiki/File:TheOrchard_April_2024.jpg",
+        "location": "27-48 Jackson Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Orchard_(development)"
+    },
+    {
+        "name": "56 Leonard Street",
+        "image": "https://en.wikipedia.org/wiki/File:56_Leonard_Street_(cropped).jpg",
+        "location": "56 Leonard Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/56_Leonard_Street"
+    },
+    {
+        "name": "CitySpire",
+        "image": "https://en.wikipedia.org/wiki/File:Cityspire_Metro_Carnegie_tower_55_jeh_ShiftNcut.jpg",
+        "location": "156 West 56th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/CitySpire"
+    },
+    {
+        "name": "28 Liberty Street",
+        "image": "https://en.wikipedia.org/wiki/File:One_Chase_Manhattan_Plaza_1.jpg",
+        "location": "28 Liberty Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/28_Liberty_Street"
+    },
+    {
+        "name": "4 Times Square",
+        "image": "https://en.wikipedia.org/wiki/File:4timessquare_23may2005.JPG",
+        "location": "1472 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/4_Times_Square"
+    },
+    {
+        "name": "MetLife Building",
+        "image": "https://en.wikipedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03_cropped.jpg",
+        "location": "200 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/MetLife_Building"
+    },
+    {
+        "name": "731 Lexington Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:Bloomberg_tower.jpg",
+        "location": "731 Lexington Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/731_Lexington_Avenue"
+    },
+    {
+        "name": "126 Madison Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:126_Madison_Avenue_(New_York_City).jpg",
+        "location": "15 East 30th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/126_Madison_Avenue"
+    },
+    {
+        "name": "138 East 50th Street",
+        "image": "https://en.wikipedia.org/wiki/File:138E50thNYC.jpg",
+        "location": "138 East 50th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/138_East_50th_Street"
+    },
+    {
+        "name": "130 William",
+        "image": "https://en.wikipedia.org/wiki/File:130_William_St_New_York.jpg",
+        "location": "130 William Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/130_William"
+    },
+    {
+        "name": "Woolworth Building",
+        "image": "https://en.wikipedia.org/wiki/File:The_Woolworth_Building_in_New_York_City_LCCN2013650474.jpg",
+        "location": "233 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Woolworth_Building"
+    },
+    {
+        "name": "111 Murray Street",
+        "image": "https://en.wikipedia.org/wiki/File:111_Murray_Street_003.jpg",
+        "location": "111 Murray Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/111_Murray_Street"
+    },
+    {
+        "name": "520 Park Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:520_Park_Avenue_April_2018.jpg",
+        "location": "520 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/520_Park_Avenue"
+    },
+    {
+        "name": "50 West Street",
+        "image": "https://en.wikipedia.org/wiki/File:50_West_Street_April_2017.jpg",
+        "location": "50 West Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/50_West_Street"
+    },
+    {
+        "name": "55 Hudson Yards",
+        "image": "https://en.wikipedia.org/wiki/File:Hudson_Yards_facing_east_(cropped,_55).jpg",
+        "location": "550 West 34th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/55_Hudson_Yards"
+    },
+    {
+        "name": "One Worldwide Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:OneWorldwidePlaza_(cropped).JPG",
+        "location": "825 Eighth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Worldwide_Plaza"
+    },
+    {
+        "name": "Madison Square Park Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Madison_Square_Park_Tower_February_2017.jpg",
+        "location": "45 East 22nd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madison_Square_Park_Tower"
+    },
+    {
+        "name": "50 West 66th Street",
+        "image": "https://en.wikipedia.org/wiki/File:At_New_York_City_2024_262.jpg",
+        "location": "50 West 66th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/50_West_66th_Street"
+    },
+    {
+        "name": "Skyline Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Skyline_Tower_LIC_2020_jeh.jpg",
+        "location": "23-15 44th Drive New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Skyline_Tower_(Queens)"
+    },
+    {
+        "name": "19 Dutch",
+        "image": "https://en.wikipedia.org/wiki/File:19_Dutch.jpg",
+        "location": "19 Dutch Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/19_Dutch"
+    },
+    {
+        "name": "Carnegie Hall Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Carnegie_Hall_Tower.JPG",
+        "location": "152 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carnegie_Hall_Tower"
+    },
+    {
+        "name": "383 Madison Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:383_Madison_Ave_New_York.jpg",
+        "location": "383 Madison Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/383_Madison_Avenue"
+    },
+    {
+        "name": "Sven",
+        "image": "https://en.wikipedia.org/wiki/File:Queens_Plaza_Feb_2020_21.jpg",
+        "location": "29\u201337 41st Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sven_(development)"
+    },
+    {
+        "name": "1717 Broadway",
+        "image": "https://en.wikipedia.org/wiki/File:1717_Broadway_Feb_2017.png",
+        "location": "1717 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/1717_Broadway"
+    },
+    {
+        "name": "AXA Equitable Center",
+        "image": "https://en.wikipedia.org/wiki/File:AXA_Center_from_GE_Building,_cropped.jpg",
+        "location": "787 Seventh Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/AXA_Equitable_Center"
+    },
+    {
+        "name": "1251 Avenue of the Americas",
+        "image": "https://en.wikipedia.org/wiki/File:1251_Avenue_of_the_Americas.JPG",
+        "location": "1251 Sixth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/1251_Avenue_of_the_Americas"
+    },
+    {
+        "name": "One Penn Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:One_Penn_Plaza,_New_York_City_in_June_2015_(cropped).JPG",
+        "location": "250 West 34th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Penn_Plaza"
+    },
+    {
+        "name": "Deutsche Bank Center",
+        "image": "https://en.wikipedia.org/wiki/File:Time_Warner_Center_May_2010.JPG",
+        "location": "10 Columbus Circle New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Deutsche_Bank_Center"
+    },
+    {
+        "name": "200 West Street",
+        "image": "https://en.wikipedia.org/wiki/File:World_Trade_Center_New_York_July_2013_001.jpg",
+        "location": "200 West Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/200_West_Street"
+    },
+    {
+        "name": "One Astor Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:One_Astor_Plaza_May_2010.JPG",
+        "location": "1515 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Astor_Plaza"
+    },
+    {
+        "name": "60 Wall Street",
+        "image": "https://en.wikipedia.org/wiki/File:60_Wall_Street_building.jpg",
+        "location": "60 Wall Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/60_Wall_Street"
+    },
+    {
+        "name": "One Liberty Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:0013TIARA_P1000433.JPG",
+        "location": "165 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Liberty_Plaza"
+    },
+    {
+        "name": "7 World Trade Center",
+        "image": "https://en.wikipedia.org/wiki/File:Wtc7-2006-0911.jpg",
+        "location": "250 Greenwich Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/7_World_Trade_Center"
+    },
+    {
+        "name": "20 Exchange Place",
+        "image": "https://en.wikipedia.org/wiki/File:20_Exchange_Place_Tower_111.JPG",
+        "location": "20 Exchange Place New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/20_Exchange_Place"
+    },
+    {
+        "name": "200 Vesey Street",
+        "image": "https://en.wikipedia.org/wiki/File:3_World_Financial_Center.jpg",
+        "location": "200 Vesey Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/200_Vesey_Street"
+    },
+    {
+        "name": "ARO",
+        "image": "https://en.wikipedia.org/wiki/File:AROBuildingNYC.jpg",
+        "location": "242 West 53rd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/ARO_(building)"
+    },
+    {
+        "name": "1540 Broadway",
+        "image": "https://en.wikipedia.org/wiki/File:Bertlesman-tower.jpg",
+        "location": "1540 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/1540_Broadway"
+    },
+    {
+        "name": "Lumen",
+        "image": "https://en.wikipedia.org/wiki/Lumen_(building)#/media/File:LumenLIC_December2023.jpg",
+        "location": "43-30 24th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumen_(development)"
+    },
+    {
+        "name": "The Eugene",
+        "image": "https://en.wikipedia.org/wiki/File:3MW_Sep18.jpg",
+        "location": "401 West 31st Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Eugene"
+    },
+    {
+        "name": "Times Square Tower",
+        "image": "https://en.wikipedia.org/wiki/File:TimesSquareTower.jpg",
+        "location": "7 Times Square New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Times_Square_Tower"
+    },
+    {
+        "name": "Brooklyn Point",
+        "image": "https://en.wikipedia.org/wiki/File:BrooklynPointII.jpg",
+        "location": "138 Willoughby Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/City_Point_(Brooklyn)"
+    },
+    {
+        "name": "Metropolitan Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Metro_Carnegie_towers_fr_W58_jeh.jpg",
+        "location": "146 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Tower_(Manhattan)"
+    },
+    {
+        "name": "252 East 57th Street",
+        "image": "https://en.wikipedia.org/wiki/File:252E57june4_16.jpg",
+        "location": "252 East 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/252_East_57th_Street"
+    },
+    {
+        "name": "Selene",
+        "image": "https://en.wikipedia.org/wiki/File:610_Lexington.jpg",
+        "location": "100 East 53rd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Selene_(building)"
+    },
+    {
+        "name": "General Motors Building",
+        "image": "https://en.wikipedia.org/wiki/File:Sherry_Netherland_Hotel_jeh.JPG",
+        "location": "767 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/General_Motors_Building_(Manhattan)"
+    },
+    {
+        "name": "25 Park Row",
+        "image": "https://en.wikipedia.org/wiki/File:25_Park_Row_001.jpg",
+        "location": "25 Park Row New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/w/index.php?title=25_Park_Row&action=edit&redlink=1"
+    },
+    {
+        "name": "Metropolitan Life Insurance Company Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Metropolitan_Life_Insurance_Company_Tower_9am_August_25th_2005.jpg",
+        "location": "1 Madison Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Life_Insurance_Company_Tower"
+    },
+    {
+        "name": "500 Fifth Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:500_Fifth_Avenue_Panorama.jpg",
+        "location": "500 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/500_Fifth_Avenue"
+    },
+    {
+        "name": "601 West 29th Street",
+        "image": "https://en.wikipedia.org/wiki/File:601_W_29th_St_New_York_Sep_2021.jpg",
+        "location": "601 West 29th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/601_West_29th_Street"
+    },
+    {
+        "name": "Americas Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Americas-tower.jpg",
+        "location": "1177 Sixth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Americas_Tower"
+    },
+    {
+        "name": "Solow Building",
+        "image": "https://en.wikipedia.org/wiki/File:57th_St_5th_Av_td_15_-_Solow_Building.jpg",
+        "location": "9 West 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Solow_Building"
+    },
+    {
+        "name": "140 Broadway",
+        "image": "https://en.wikipedia.org/wiki/File:WSTM_Mark_Frank_0086.jpg",
+        "location": "140 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/140_Broadway"
+    },
+    {
+        "name": "277 Park Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:277parkave.jpg",
+        "location": "277 Park Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/277_Park_Avenue"
+    },
+    {
+        "name": "55 Water Street",
+        "image": "https://en.wikipedia.org/wiki/File:55_Water_Street_and_north_wing.jpg",
+        "location": "55 Water Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/55_Water_Street"
+    },
+    {
+        "name": "5 Beekman Street",
+        "image": "https://en.wikipedia.org/wiki/File:5beekmanmay29_16.jpg",
+        "location": "5 Beekman Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/5_Beekman_Street"
+    },
+    {
+        "name": "Morgan Stanley Building",
+        "image": "https://en.wikipedia.org/wiki/File:Morgan-stanley-building.jpg",
+        "location": "1585 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morgan_Stanley_Building"
+    },
+    {
+        "name": "Penguin Random House Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Random-house2.jpg",
+        "location": "1745 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Penguin_Random_House_Tower"
+    },
+    {
+        "name": "Four Seasons Hotel New York",
+        "image": "https://en.wikipedia.org/wiki/File:4_seasons_hotel_NY_56_jeh.jpg",
+        "location": "57 East 57th Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Four_Seasons_Hotel_New_York"
+    },
+    {
+        "name": "Sky",
+        "image": "https://en.wikipedia.org/wiki/File:Sky_Building_March_2017.jpg",
+        "location": "605 West 42nd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sky_(skyscraper)"
+    },
+    {
+        "name": "1221 Avenue of the Americas",
+        "image": "https://en.wikipedia.org/wiki/File:McGraw-Hill_Building_Rock_Center_by_David_Shankbone.jpg",
+        "location": "1221 Sixth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/1221_Avenue_of_the_Americas"
+    },
+    {
+        "name": "One Grand Central Place",
+        "image": "https://en.wikipedia.org/wiki/File:One_Grand_Central_Place_in_2016_jeh.jpg",
+        "location": "60 East 42nd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Grand_Central_Place"
+    },
+    {
+        "name": "One Court Square",
+        "image": "https://en.wikipedia.org/wiki/File:MoMA_PS1_rooftop_August_2013_003.jpg",
+        "location": "2501 Jackson Avenue, Long Island City New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/One_Court_Square"
+    },
+    {
+        "name": "Barclay Tower",
+        "image": "https://en.wikipedia.org/wiki/File:View_at_World_Trade_Center_station_(New_York)_(30303241557).jpg",
+        "location": "10 Barclay Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barclay_Tower"
+    },
+    {
+        "name": "277 Fifth Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:277_Fifth_Avenue.jpg",
+        "location": "277 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/277_Fifth_Avenue"
+    },
+    {
+        "name": "Paramount Plaza",
+        "image": "https://en.wikipedia.org/wiki/File:Paramount-plaza.jpg",
+        "location": "1633 Broadway New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paramount_Plaza"
+    },
+    {
+        "name": "161 Maiden Lane",
+        "image": "https://en.wikipedia.org/wiki/File:1SeaportJ19.jpg",
+        "location": "161 Maiden Lane New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/161_Maiden_Lane"
+    },
+    {
+        "name": "200 Amsterdam",
+        "image": "https://en.wikipedia.org/wiki/File:T3d7RWsJzP.jpg",
+        "location": "200 Amsterdam Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/200_Amsterdam"
+    },
+    {
+        "name": "45 Park Place",
+        "image": "https://en.wikipedia.org/wiki/File:Church_St_Park_Pl_td_(2019-03-27)_11_-_45_Park_Place.jpg",
+        "location": "45 Park Place New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/45_Park_Place"
+    },
+    {
+        "name": "Trump Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Trump_Tower_(7181836700)_(cropped).jpg",
+        "location": "725 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trump_Tower"
+    },
+    {
+        "name": "1 Wall Street",
+        "image": "https://en.wikipedia.org/wiki/File:1_Wall_Street_panoramic.jpg",
+        "location": "1 Wall Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/1_Wall_Street"
+    },
+    {
+        "name": "599 Lexington Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:599_Lexington_Avenue,_New_York,_New_York.jpg",
+        "location": "599 Lexington Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/599_Lexington_Avenue"
+    },
+    {
+        "name": "Silver Towers",
+        "image": "https://en.wikipedia.org/wiki/File:Silver_Towers_44_11_jeh.JPG",
+        "location": "620 West 42nd Street New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silver_Towers"
+    },
+    {
+        "name": "712 Fifth Avenue",
+        "image": "https://en.wikipedia.org/wiki/File:Skyscraper_MOMA_(6217863416).jpg",
+        "location": "712 Fifth Avenue New York, NY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/712_Fifth_Avenue"
+    }
+]

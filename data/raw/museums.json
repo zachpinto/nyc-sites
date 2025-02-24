@@ -1,0 +1,1100 @@
+[
+    {
+        "name": "The Metropolitan Museum of Art",
+        "image": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art#/media/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg",
+        "location": "1000 5th Ave, New York, NY 10028",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+    },
+    {
+        "name": "The American Museum of Natural History",
+        "image": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History#/media/File:USA-NYC-American_Museum_of_Natural_History.JPG",
+        "location": "Central Park West & 79th St, New York, NY 10024",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"
+    },
+    {
+        "name": "The Rubin Museum of Art",
+        "image": "https://en.wikipedia.org/wiki/Rubin_Museum_of_Art#/media/File:The_Rubin_Museum_of_Art_(49051574333).jpg",
+        "location": "150 W 17th St, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rubin_Museum_of_Art"
+    },
+    {
+        "name": "The Brooklyn Museum",
+        "image": "https://en.wikipedia.org/wiki/Brooklyn_Museum",
+        "location": "200 Eastern Pkwy, Brooklyn, NY 11238",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Museum"
+    },
+    {
+        "name": "The Museum of Modern Art (MoMA)",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art#/media/File:MoMa_NY_USA_1.jpg",
+        "location": "11 W 53rd St, New York, NY 10019",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art"
+    },
+    {
+        "name": "The Fraunces Tavern",
+        "image": "https://en.wikipedia.org/wiki/Fraunces_Tavern#/media/File:Frauncestavern.JPG",
+        "location": "54 Pearl St, New York, NY 10004",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fraunces_Tavern"
+    },
+    {
+        "name": "The 9/11 Memorial Museum",
+        "image": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum#/media/File:9-11_Memorial_and_Museum_(28815276064).jpg",
+        "location": "180 Greenwich Street, New York, NY 10007",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum"
+    },
+    {
+        "name": "The New York Historical Society",
+        "image": "https://en.wikipedia.org/wiki/New_York_Historical#/media/File:New_York_Historical_Society_(48269593386).jpg",
+        "location": "170 Central Park West, New York, NY 10024",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New-York_Historical_Society"
+    },
+    {
+        "name": "The Ellis Island National Museum of Immigration",
+        "image": "https://en.wikipedia.org/wiki/Ellis_Island#/media/File:Aerial_view_of_Ellis_Island,_Jersey_City,_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+        "location": "Upper New York Bay",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ellis_Island"
+    },
+    {
+        "name": "The Solomon R. Guggenheim Museum",
+        "image": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum#/media/File:NYC_-_Guggenheim_Museum.jpg",
+        "location": "1071 5th Ave, New York, NY 10128",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "name": "The Whitney Museum of American Art",
+        "image": "https://en.wikipedia.org/wiki/Whitney_Museum#/media/File:Whitney_Museum_of_American_Art_(49051573133).jpg",
+        "location": "99 Gansevoort St, New York, NY 10014",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art"
+    },
+    {
+        "name": "The Frick Collection",
+        "image": "https://en.wikipedia.org/wiki/Frick_Collection#/media/File:Frick_Collection_New_York_cour.jpg",
+        "location": "1 E 70th St, New York, NY 10021",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Frick_Collection"
+    },
+    {
+        "name": "The Lower East Side Tenement Museum",
+        "image": "https://en.wikipedia.org/wiki/Lower_East_Side_Tenement_Museum#/media/File:97_Orchard_Street_Front.jpg",
+        "location": "103 Orchard St, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tenement_Museum"
+    },
+    {
+        "name": "The Museum of the City of New York",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York#/media/File:Museum_of_the_City_of_New_York_1220_Fifth_Avenue_from_west.jpg",
+        "location": "1220 5th Ave, New York, NY 10029",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_the_City_of_New_York"
+    },
+    {
+        "name": "The Intrepid Sea, Air & Space Museum",
+        "image": "https://en.wikipedia.org/wiki/Intrepid_Museum#/media/File:Intrepid_Museum_(49052290092).jpg",
+        "location": "Pier 86, W 46th St, New York, NY 10036",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Intrepid_Sea,_Air_%26_Space_Museum"
+    },
+    {
+        "name": "The Morgan Library & Museum",
+        "image": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum#/media/File:Morgan_Library_&_Museum,_New_York_2017_02.jpg",
+        "location": "225 Madison Avenue at 36th Street, New York, NY 10016",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum"
+    },
+    {
+        "name": "The New Museum",
+        "image": "https://en.wikipedia.org/wiki/New_Museum#/media/File:New_Museum_in_New_York_City_2015.JPG",
+        "location": "235 Bowery, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Museum"
+    },
+    {
+        "name": "The Museum of the Moving Image",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image#/media/File:MoMI2.jpg",
+        "location": "36-01 35th Ave, Astoria, NY 11106",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_the_Moving_Image_(New_York_City)"
+    },
+    {
+        "name": "Poster House",
+        "image": "https://images.squarespace-cdn.com/content/v1/518a9d87e4b0288d5ff8b768/1569271452270-9FKCCH754LR57JX9IGHK/1916_01_2.jpg?format=1500w",
+        "location": "119 W. 23rd St. New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poster_House"
+    },
+    {
+        "name": "The New York Transit Museum",
+        "image": "https://en.wikipedia.org/wiki/New_York_Transit_Museum#/media/File:New_York_Transit_Museum_Court_Street_platform.jpg",
+        "location": "99 Schermerhorn St, Brooklyn, NY 11201",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Transit_Museum"
+    },
+    {
+        "name": "The Jewish Museum",
+        "image": "https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)#/media/File:Jewish_Museum_(48059132236).jpg",
+        "location": "1109 5th Ave, New York, NY 10128",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Jewish_Museum_(New_York_City)"
+    },
+    {
+        "name": "The National Museum of the American Indian",
+        "image": "https://en.wikipedia.org/wiki/National_Museum_of_the_American_Indian#/media/File:National_Museum_of_the_American_Indian,_New_York_11.jpg",
+        "location": "1 Bowling Green, New York, NY 10004",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Museum_of_the_American_Indian#George_Gustav_Heye_Center_(New_York_City)"
+    },
+    {
+        "name": "The Cooper Hewitt Smithsonian Design Museum",
+        "image": "https://en.wikipedia.org/wiki/Cooper_Hewitt,_Smithsonian_Design_Museum#/media/File:Cooper_Hewitt_(48059131921).jpg",
+        "location": "2 E 91st St, New York, NY 10128",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cooper_Hewitt,_Smithsonian_Design_Museum"
+    },
+    {
+        "name": "The Skyscraper Museum",
+        "image": "https://en.wikipedia.org/wiki/Skyscraper_Museum#/media/File:Wtc_model_at_skyscraper_museum.jpg",
+        "location": "39 Battery Pl, New York, NY 10280",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Skyscraper_Museum"
+    },
+    {
+        "name": "The Museum of Arts and Design (MAD)",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Arts_and_Design#/media/File:Museum_of_Arts_and_Design_(MAD)_-_NYC_(51395616531).jpg",
+        "location": "2 Columbus Cir, New York, NY 10019",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Arts_and_Design"
+    },
+    {
+        "name": "The Children's Museum of Manhattan",
+        "image": "https://en.wikipedia.org/wiki/Children%27s_Museum_of_Manhattan#/media/File:Childrens_Museum_of_Manhattan_212_W83_jeh.jpg",
+        "location": "212 W 83rd St, New York, NY 10024",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Children%27s_Museum_of_Manhattan"
+    },
+    {
+        "name": "The Staten Island Museum",
+        "image": "https://en.wikipedia.org/wiki/Staten_Island_Museum#/media/File:SIMuseumEntrance.JPG",
+        "location": "1000 Richmond Terrace, Building A, Staten Island, NY 10301",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Staten_Island_Museum"
+    },
+    {
+        "name": "The Museum of Chinese in America",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Chinese_in_America#/media/File:MOCA_Centre_St_sunny_morn_jeh.JPG",
+        "location": "215 Centre St, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Chinese_in_America"
+    },
+    {
+        "name": "Coney Island Museum",
+        "image": "https://en.wikipedia.org/wiki/Coney_Island_USA#/media/File:Coney_Island_USA_east_sunny_jeh.jpg",
+        "location": "1208 Surf Ave, Brooklyn, NY 11224",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Coney_Island_Museum"
+    },
+    {
+        "name": "Bronx Museum of the Arts",
+        "image": "https://en.wikipedia.org/wiki/Bronx_Museum_of_the_Arts#/media/File:Bronx_Museum_Art_jeh.JPG",
+        "location": "1040 Grand Concourse, The Bronx, NY 10456",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_Museum_of_the_Arts"
+    },
+    {
+        "name": "Queens Museum",
+        "image": "https://en.wikipedia.org/wiki/Queens_Museum#/media/File:Queens_Museum-1.jpg",
+        "location": "New York City Building, Corona, NY 11368",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_Museum"
+    },
+    {
+        "name": "Jewish Children's Museum",
+        "image": "https://en.wikipedia.org/wiki/Jewish_Children%27s_Museum#/media/File:J_Child_Museum_J11_jeh.JPG",
+        "location": "792 Eastern Pkwy, Brooklyn, NY 11213",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jewish_Children%27s_Museum"
+    },
+    {
+        "name": "The Met Cloisters",
+        "image": "https://en.wikipedia.org/wiki/The_Cloisters#/media/File:The_Met_Cloisters.jpg",
+        "location": "99 Margaret Corbin Dr, New York, NY 10040",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Cloisters"
+    },
+    {
+        "name": "National Jazz Museum in Harlem",
+        "image": "https://en.wikipedia.org/wiki/National_Jazz_Museum_in_Harlem#/media/File:Jazzmuseum.jpg",
+        "location": "58 W 129th St Ground Floor, 2203, New York, NY 10027",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Jazz_Museum_in_Harlem"
+    },
+    {
+        "name": "Madame Tussauds",
+        "image": "https://en.wikipedia.org/wiki/Madame_Tussauds_New_York#/media/File:42nd_Street_in_New_York.jpg",
+        "location": "234 W 42nd St, New York, NY 10036",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madame_Tussauds_New_York"
+    },
+    {
+        "name": "Museum of Nostalgia",
+        "image": "https://queenspost.com/wp-content/uploads/2023/08/20230716_114836.jpg",
+        "location": "31-27 31st St, Astoria, NY 11106",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Nostalgia"
+    },
+    {
+        "name": "New York Hall Of Science",
+        "image": "https://en.wikipedia.org/wiki/New_York_Hall_of_Science#/media/File:New_York_Hall_of_Science_(48613180593).jpg",
+        "location": "47-01 111th St, Corona, NY 11368",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Hall_of_Science"
+    },
+    {
+        "name": "New York City Fire Museum",
+        "image": "https://en.wikipedia.org/wiki/New_York_City_Fire_Museum#/media/File:New_York_City_Fire_Museum_002_(cropped).jpg",
+        "location": "278 Spring St, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_City_Fire_Museum"
+    },
+    {
+        "name": "Fort Totten Park",
+        "image": "https://en.wikipedia.org/wiki/Fort_Totten_(Queens)#/media/File:Ft_Totten_overgrown_jeh.JPG",
+        "location": "Totten Ave. &, 15th Rd, Bayside, NY 11359",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Totten_(Queens)"
+    },
+    {
+        "name": "Maritime Industry Museum at Fort Schuyler",
+        "image": "https://en.wikipedia.org/wiki/Fort_Schuyler#/media/File:WSTM_Free_Culture_NYU_0246.jpg",
+        "location": "6 Pennyfield Ave, The Bronx, NY 10465",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maritime_Industry_Museum"
+    },
+    {
+        "name": "Museum of American Finance",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_American_Finance#/media/File:Museum_of_American_Finance_Main_Gallery_by_Markus_Hartel.jpg",
+        "location": "48 Wall St, New York, NY 10005",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_American_Finance"
+    },
+    {
+        "name": "American Folk Art Museum",
+        "image": "https://en.wikipedia.org/wiki/American_Folk_Art_Museum#/media/File:American_Folk_Art_Museum_(48047410506).jpg",
+        "location": "2 Lincoln Square, New York, NY 10023",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Folk_Art_Museum"
+    },
+    {
+        "name": "Ukrainian Museum",
+        "image": "https://en.wikipedia.org/wiki/Ukrainian_Museum#/media/File:The_Ukrainian_Museum_(51661210605).jpg",
+        "location": "222 E 6th St, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukrainian_Museum"
+    },
+    {
+        "name": "Columbia University Rare Book & Manuscript Library",
+        "image": "https://en.wikipedia.org/wiki/Rare_Book_and_Manuscript_Library#/media/File:Butler_Library_Columbia_University.jpg",
+        "location": "6th Floor East Butler Library, 535 W 114th St, New York, NY 10027",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rare_Book_and_Manuscript_Library"
+    },
+    {
+        "name": "Louis Armstrong House Museum",
+        "image": "https://en.wikipedia.org/wiki/Louis_Armstrong_House#/media/File:Louis_Armstrong_House_02_(cropped).jpg",
+        "location": "34-56 107th St, Corona, NY 11368",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louis_Armstrong_House"
+    },
+    {
+        "name": "Mets Hall of Fame & Museum",
+        "image": "https://en.wikipedia.org/wiki/New_York_Mets_Hall_of_Fame#/media/File:Mets_Hall_of_Fame.JPG",
+        "location": "123-01 Roosevelt Ave, Queens, NY 11368",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mets_Hall_of_Fame_%26_Museum"
+    },
+    {
+        "name": "New York Botanical Garden",
+        "image": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden#/media/File:Brooklyn_botanic_garden_fragrance_garden_gate.jpg",
+        "location": "2900 Southern Blvd, The Bronx, NY 10458",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden"
+    },
+    {
+        "name": "South Street Seaport Museum",
+        "image": "https://en.wikipedia.org/wiki/South_Street_Seaport#/media/File:Pier_17_2018-03_jeh.jpg",
+        "location": "12 Fulton St, New York, NY 10038",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Street_Seaport#Museum"
+    },
+    {
+        "name": "Mmuseumm",
+        "image": "https://en.wikipedia.org/wiki/Mmuseumm#/media/File:Mmuseumm_(51521774293).jpg",
+        "location": "4 Cortlandt Alley, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mmuseumm"
+    },
+    {
+        "name": "AKC Museum of the Dog",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_the_Dog#/media/File:Sir_Edwin_Henry_Landseer_-_Study_of_a_Greyhound_-_Google_Art_Project.jpg",
+        "location": "101 Park Ave, New York, NY 10178",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/AKC_Museum_of_the_Dog"
+    },
+    {
+        "name": "National Museum of Mathematics",
+        "image": "https://en.wikipedia.org/wiki/National_Museum_of_Mathematics#/media/File:National_Museum_of_Mathematics_11_East_26th_Street_entrance.jpg",
+        "location": "11 E 26th St, New York, NY 10010",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Museum_of_Mathematics"
+    },
+    {
+        "name": "Asian American Arts Centre",
+        "image": "https://en.wikipedia.org/wiki/Asian_American_Arts_Centre#/media/File:AAAC_Sign_Bowery.jpg",
+        "location": "111 Norfolk St, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asian_American_Arts_Centre"
+    },
+    {
+        "name": "El Museo del Barrio",
+        "image": "https://en.wikipedia.org/wiki/El_Museo_del_Barrio#/media/File:WTM3_The_Fixers_0056.jpg",
+        "location": "1230 5th Ave, New York, NY 10029",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Museo_del_Barrio"
+    },
+    {
+        "name": "National Academy of Design",
+        "image": "https://en.wikipedia.org/wiki/National_Academy_of_Design#/media/File:National_Academy_of_Design_(48059131596).jpg",
+        "location": "15 Gramercy Park S, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Academy_of_Design"
+    },
+    {
+        "name": "Museum at FIT",
+        "image": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology#/media/File:The_Museum_at_FIT_(48206542922).jpg",
+        "location": "227 W 27th St, New York, NY 10001",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology#Museum_at_FIT"
+    },
+    {
+        "name": "New York Public Library",
+        "image": "https://en.wikipedia.org/wiki/New_York_Public_Library_Main_Branch#/media/File:Sectional_view_of_the_New_York_Public_Library_(Scientific_American,_1911).jpg",
+        "location": "476 5th Ave, New York, NY 10018",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Public_Library"
+    },
+    {
+        "name": "Center for Brooklyn History",
+        "image": "https://en.wikipedia.org/wiki/Center_for_Brooklyn_History#/media/File:Brooklyn_Historical_Society_building.jpg",
+        "location": "128 Pierrepont St, Brooklyn, NY 11201",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Center_for_Brooklyn_History"
+    },
+    {
+        "name": "Hall of Fame for Great Americans",
+        "image": "https://en.wikipedia.org/wiki/Hall_of_Fame_for_Great_Americans#/media/File:HallofFameColumns.jpg",
+        "location": "University Ave & W 181st St, The Bronx, NY 10453",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hall_of_Fame_for_Great_Americans"
+    },
+    {
+        "name": "Harbor Defense Museum",
+        "image": "https://history.army.mil/portals/143/Images/Museums/Harbor%20Defense%20Museum/ftHamilton_gal_01.jpg?ver=JdoUApnuDgDNpAOXpA7uCA%3D%3D",
+        "location": "230 Sheridan Loop, Brooklyn, NY 11252",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harbor_Defense_Museum"
+    },
+    {
+        "name": "City Island Nautical Museum",
+        "image": "https://en.wikipedia.org/wiki/Public_School_17#/media/File:City_Island_Nautical_Museum.JPG",
+        "location": "190 Fordham St, The Bronx, NY 10464",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/City_Island_Nautical_Museum"
+    },
+    {
+        "name": "Museum of Contemporary African Diasporan Arts",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_African_Diasporan_Arts#/media/File:MoCADA_(48228093217).jpg",
+        "location": "80 Hanson Pl, Brooklyn, NY 11217",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_African_Diasporan_Arts"
+    },
+    {
+        "name": "Jacques Marchais Museum of Tibetan Art",
+        "image": "https://en.wikipedia.org/wiki/Jacques_Marchais_Museum_of_Tibetan_Art#/media/File:Marchais_Museum_LH_Av_jeh.JPG",
+        "location": "338 Lighthouse Ave, Staten Island, NY 10306",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jacques_Marchais_Museum_of_Tibetan_Art"
+    },
+    {
+        "name": "National Track and Field Hall of Fame",
+        "image": "https://en.wikipedia.org/wiki/National_Track_and_Field_Hall_of_Fame#/media/File:Fort-washington-armory.jpg",
+        "location": "216 Fort Washington Avenue, New York, NY 10032",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Track_and_Field_Hall_of_Fame"
+    },
+    {
+        "name": "Brooklyn Botanic Garden",
+        "image": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden#/media/File:Brooklyn_Botanic_Garden_New_York_October_2016_006.jpg",
+        "location": "990 Washington Ave, Brooklyn, NY 11225",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden"
+    },
+    {
+        "name": "Wave Hill Public Gardens",
+        "image": "https://en.wikipedia.org/wiki/Wave_Hill#/media/File:Wave_hill_house,_August_2019.jpg",
+        "location": "4900 Independence Ave, The Bronx, NY 10471",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wave_Hill"
+    },
+    {
+        "name": "Sandy Ground Historical Museum",
+        "image": "https://en.wikipedia.org/wiki/Sandy_Ground_Historical_Museum#/media/File:Sandy_Ground_Museum.jpg",
+        "location": "1538 Woodrow Road Staten Island, NY 10308",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sandy_Ground_Historical_Museum"
+    },
+    {
+        "name": "Yeshiva University Museum",
+        "image": "https://en.wikipedia.org/wiki/Yeshiva_University_Museum#/media/File:Center_for_Jewish_History_NYC.jpg",
+        "location": "15 W 16th St, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yeshiva_University_Museum"
+    },
+    {
+        "name": "Parsons The New School for Design Sheila C. Johnson Design Center",
+        "image": "https://ricelipka.com/media/files/b723e8e0ae3cb844d288a32405fd1fe5.jpg",
+        "location": "66 5th Ave New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Parsons_The_New_School_for_Design"
+    },
+    {
+        "name": "General Grant National Memorial",
+        "image": "https://en.wikipedia.org/wiki/Grant%27s_Tomb#/media/File:General_Grant_National_Memorial_New_York_November_2016_003.jpg",
+        "location": "W 122nd St & Riverside Dr, New York, NY 10027",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/General_Grant_National_Memorial"
+    },
+    {
+        "name": "Federal Hall",
+        "image": "https://en.wikipedia.org/wiki/Federal_Hall#/media/File:Federal_Hall_(48126566178).jpg",
+        "location": "26 Wall Street New York, NY 10005",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Hall"
+    },
+    {
+        "name": "Trinity Church",
+        "image": "r",
+        "location": "75 Broadway, New York, NY 10006",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trinity_Church_(Manhattan)"
+    },
+    {
+        "name": "Waterfront Museum",
+        "image": "https://media.timeout.com/images/105100530/750/422/image.jpg",
+        "location": "290 Conover St, Brooklyn, NY 11231",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Waterfront_Museum"
+    },
+    {
+        "name": "The American Numismatics Society",
+        "image": "https://i0.wp.com/gothamjoe.com/wp-content/uploads/2017/03/IMG_2383-e1490994307697.jpg?resize=525%2C252&ssl=1",
+        "location": "75 Varick Street, 11th Floor New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Numismatic_Society"
+    },
+    {
+        "name": "Federal Reserve Banks of New York",
+        "image": "https://www.newyorkfed.org/medialibrary/media/images/v4/museum_gold/featured_panel/nyfed-museum-feature.jpg",
+        "location": "33 Liberty St, New York, NY 10045",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_New_York"
+    },
+    {
+        "name": "Theodore Roosevelt Birthplace National Historic Site",
+        "image": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Birthplace_National_Historic_Site#/media/File:Theodore_Roosevelt_Birthplace_from_west.jpg",
+        "location": "28 East 20th Street New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Theodore_Roosevelt_Birthplace_National_Historic_Site"
+    },
+    {
+        "name": "American Academy of Arts and Letters",
+        "image": "https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Letters#/media/File:WTM_NewYorkDolls_011.jpg",
+        "location": "633 W 155th St, New York, NY 10032",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Letters"
+    },
+    {
+        "name": "Onassis Cultural Center",
+        "image": "https://theatreprojects.com/wp-content/uploads/2022/02/onassis-cultural-centre-01.jpg",
+        "location": "Olympic Tower, 645 5th Ave, New York, NY 10019",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Onassis_Cultural_Center"
+    },
+    {
+        "name": "Noguchi Museum",
+        "image": "https://en.wikipedia.org/wiki/Noguchi_Museum#/media/File:Wikist_aces_0087.jpg",
+        "location": "9-01 33rd Rd, Queens, NY 11106",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noguchi_Museum"
+    },
+    {
+        "name": "Nicholas Roerich Museum",
+        "image": "https://en.wikipedia.org/wiki/Nicholas_Roerich_Museum#/media/File:WTM3_The_Fixers_0015.jpg",
+        "location": "319 W 107th St, New York, NY 10025",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicholas_Roerich_Museum"
+    },
+    {
+        "name": "Living Torah Museum",
+        "image": "https://en.wikipedia.org/wiki/Living_Torah_Museum#/media/File:It_is_the_front_site_of_the_Living_Torah_Museum.jpg",
+        "location": "1603 41st St, Brooklyn, NY 11218",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Living_Torah_Museum"
+    },
+    {
+        "name": "Scandinavia House \u00e2\u0080\u0093 The Nordic Center in America",
+        "image": "https://en.wikipedia.org/wiki/Scandinavia_House_%E2%80%93_The_Nordic_Center_in_America#/media/File:Scandinavia_House.jpg",
+        "location": "58 Park Ave, New York, NY 10016",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scandinavia_House"
+    },
+    {
+        "name": "Garibaldi-Meucci Museum",
+        "image": "https://en.wikipedia.org/wiki/Garibaldi-Meucci_Museum#/media/File:Garibaldi_meucci_house_2008_07_20.jpg",
+        "location": "420 Tompkins Ave, Staten Island, NY 10305",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Garibaldi-Meucci_Museum"
+    },
+    {
+        "name": "Museum of Public Relations",
+        "image": "https://images.squarespace-cdn.com/content/v1/5452b6dae4b0c4d5c0fc9721/1416513671447-T4TG86MN14QD5XMY16IN/exhibit-at-opening-BC-14-09-23_014.jpg",
+        "location": "85 Broad St 27th floor, New York, NY 10004",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Public_Relations"
+    },
+    {
+        "name": "Castle Clinton National Monument",
+        "image": "https://en.wikipedia.org/wiki/Castle_Clinton#/media/File:Castle_Clinton_aerial_view.jpg",
+        "location": "Battery Park, New York, NY 10004",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castle_Clinton"
+    },
+    {
+        "name": "Noble Maritime Collection",
+        "image": "https://en.wikipedia.org/wiki/Sailors%27_Snug_Harbor#/media/File:Snug_Harbor_gazebo_West_jeh.jpg",
+        "location": "1000 Richmond Terrace, Building D Staten Island, NY 10301",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noble_Maritime_Collection"
+    },
+    {
+        "name": "John M. Mossman Lock Museum",
+        "image": "https://en.wikipedia.org/wiki/John_M._Mossman_Lock_Museum#/media/File:Mossman_Lock_Collection_(95257p).jpg",
+        "location": "20 West 44th Street, New York, NY 10036",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_M._Mossman_Lock_Museum"
+    },
+    {
+        "name": "Edgar Allan Poe Cottage",
+        "image": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_Cottage#/media/File:Edgar_Allan_Poe's_house_in_the_Bronx.jpg",
+        "location": "2640 Grand Concourse, The Bronx, NY 10458",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_Cottage"
+    },
+    {
+        "name": "Merchant's House Museum",
+        "image": "https://en.wikipedia.org/wiki/Merchant%27s_House_Museum#/media/File:Merchant's_House_Museum_(48072654706).jpg",
+        "location": "29 E 4th St, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Merchant%27s_House_Museum"
+    },
+    {
+        "name": "Queens County Farm Museum",
+        "image": "https://en.wikipedia.org/wiki/Queens_County_Farm_Museum#/media/File:QFM_farmhouse_jeh.jpg",
+        "location": "73-50 Little Neck Pkwy, Queens, NY 11004",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queens_County_Farm_Museum"
+    },
+    {
+        "name": "Staten Island Children's Museum",
+        "image": "https://en.wikipedia.org/wiki/Staten_Island_Children%27s_Museum#/media/File:Staten_Island_Children's_Museum.jpg",
+        "location": "1000 Richmond Terrace, Staten Island, NY 10301",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Staten_Island_Children%27s_Museum"
+    },
+    {
+        "name": "Hamilton Grange National Memorial",
+        "image": "https://en.wikipedia.org/wiki/Hamilton_Grange_National_Memorial#/media/File:Hamilton_Grange_National_Memorial_-_Entrance_(48170424452).jpg",
+        "location": "414 W 141st St, New York, NY 10031",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hamilton_Grange_National_Memorial"
+    },
+    {
+        "name": "Studio Museum in Harlem",
+        "image": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem#/media/File:Studio_Museum_of_Harlem.jpg",
+        "location": "429 W 127th St, New York, NY 10027",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Studio_Museum_in_Harlem"
+    },
+    {
+        "name": "Korean Cultural Center New York Gallery",
+        "image": "https://images.squarespace-cdn.com/content/v1/581ff5eef5e231b25f9c12db/1686940542670-8P9VCW1O0V5HI8AW0A2K/front-night-low.jpg",
+        "location": "460 Park Avenue 6th Floor, New York, NY 10022",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Korean_Cultural_Center_New_York"
+    },
+    {
+        "name": "Chaim Gross Studio Museum",
+        "image": "https://en.wikipedia.org/wiki/Renee_and_Chaim_Gross_Foundation#/media/File:Studio_space_at_The_Renee_&_Chaim_Gross_Foundation.jpg",
+        "location": "526 LaGuardia Pl, New York, NY 10012",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chaim_Gross_Studio_Museum"
+    },
+    {
+        "name": "Socrates Sculpture Park",
+        "image": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park#/media/File:Wikist_aces_0081.jpg",
+        "location": "32-01 Vernon Blvd, Long Island City, NY 11106",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Socrates_Sculpture_Park"
+    },
+    {
+        "name": "Bayside Historical Society",
+        "image": "https://en.wikipedia.org/wiki/Fort_Totten_Officers%27_Club#/media/File:Ft_Totten_Officer_Club_jeh.JPG",
+        "location": "208 Totten Ave, Bayside, NY 11359",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bayside_Historical_Society"
+    },
+    {
+        "name": "Fort Wadsworth",
+        "image": "https://en.wikipedia.org/wiki/Fort_Wadsworth#/media/File:Fort_Wadsworth_01.jpg",
+        "location": "120 New York Ave Staten Island, NY 10305 At this address",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Wadsworth"
+    },
+    {
+        "name": "Bernard Museum of Judaica",
+        "image": "https://en.wikipedia.org/wiki/Bernard_Museum_of_Judaica#/media/File:Emanu-elNYjeh.JPG",
+        "location": "1 E 65th St, New York, NY 10065",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bernard_Museum_of_Judaica"
+    },
+    {
+        "name": "Gracie Mansion",
+        "image": "https://en.wikipedia.org/wiki/Gracie_Mansion#/media/File:Gracie_Mansion_snow_jeh.jpg",
+        "location": "E 88th St &, East End Ave, New York, NY 10028",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gracie_Mansion"
+    },
+    {
+        "name": "Mount Vernon Hotel Museum & Garden",
+        "image": "https://en.wikipedia.org/wiki/Mount_Vernon_Hotel_Museum#/media/File:Mount_Vernon_Hotel_Museum_&_Garden_(51923598385).jpg",
+        "location": "421 E 61st St, New York, NY 10065",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Vernon_Hotel_Museum_%26_Garden"
+    },
+    {
+        "name": "The Old Stone House in Brooklyn",
+        "image": "https://en.wikipedia.org/wiki/Old_Stone_House_(Brooklyn)#/media/File:Old-stone-house-brooklyn.JPG",
+        "location": "336 3rd St, Brooklyn, NY 11215",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Old_Stone_House_(Brooklyn)"
+    },
+    {
+        "name": "Fordham Museum of Greek, Etruscan and Roman Art",
+        "image": "https://en.wikipedia.org/wiki/William_D._Walsh_Family_Library#/media/File:Walsh_Library_Fordham.jpg",
+        "location": "441 E. Fordham Road Bronx, NY 10458",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fordham_Museum_of_Greek,_Etruscan_and_Roman_Art"
+    },
+    {
+        "name": "Leslie-Lohman Museum of Art",
+        "image": "https://en.wikipedia.org/wiki/Leslie-Lohman_Museum_of_Art#/media/File:Leslie-Lohman_Museum_of_Gay_and_Lesbian_Art_-_NYC_(48129032106).jpg",
+        "location": "26 Wooster St, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Leslie-Lohman_Museum_of_Art"
+    },
+    {
+        "name": "Neue Galerie",
+        "image": "https://en.wikipedia.org/wiki/Neue_Galerie_New_York#/media/File:Neue_Gallery_(48059179353).jpg",
+        "location": "1048 5th Ave, New York, NY 10028",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neue_Galerie"
+    },
+    {
+        "name": "Museum of Sex",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Sex#/media/File:Museum_of_Sex,_New_York_City,_USA.jpg",
+        "location": "233 Fifth Avenue New York, NY 10016",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum"
+    },
+    {
+        "name": "Godwin-Ternbach Museum",
+        "image": "https://gtmuseum.org/wp-content/uploads/2019/01/museumbuilding.jpg",
+        "location": "Klapper Hall, Queens College, Flushing, NY 11367",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Godwin-Ternbach_Museum"
+    },
+    {
+        "name": "Park Avenue Armory",
+        "image": "https://en.wikipedia.org/wiki/Park_Avenue_Armory#/media/File:Seventh_Regiment_Armory_-_Park_Avenue_Armory_-_Front_(48377217362).jpg",
+        "location": "643 Park Ave, New York, NY 10065",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Park_Avenue_Armory"
+    },
+    {
+        "name": "Bronx Children's Museum",
+        "image": "https://en.wikipedia.org/wiki/Bronx_Children%27s_Museum#/media/File:Bronx_Children's_Museum_(53831864003).jpg",
+        "location": "25 Exterior Street, The Bronx, NY 10451",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_Children%27s_Museum"
+    },
+    {
+        "name": "Van Cortlandt House Museum",
+        "image": "https://en.wikipedia.org/wiki/Van_Cortlandt_House#/media/File:Van-cortland-house-bronx.JPG",
+        "location": "6036 Broadway, Van Cortlandt Park, The Bronx, NY 10471",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Van_Cortlandt_House_Museum"
+    },
+    {
+        "name": "King Manor Museum",
+        "image": "https://en.wikipedia.org/wiki/King_Manor#/media/File:Rufus-king-house.jpg",
+        "location": "150-03 Jamaica Ave, Jamaica, NY 11432",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/King_Manor"
+    },
+    {
+        "name": "FDNY Fire Zone",
+        "image": "https://cdn.segd.org/wp-content/uploads/2023/07/2021-GDA_FDNY-Fire-Zone-02_960x540-1440x810.jpg",
+        "location": "34 W 51st St, New York, NY 10019",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/FDNY_Fire_Zone"
+    },
+    {
+        "name": "Derfner Judaica Museum",
+        "image": "https://images.forwardcdn.com/image/970x/center/images/cropped/bronxmuseum2-061809-1425723794.jpg",
+        "location": "5901 Palisade Ave, The Bronx, NY 10471",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Derfner_Judaica_Museum"
+    },
+    {
+        "name": "Tibet House",
+        "image": "https://en.wikipedia.org/wiki/Tibet_House_US#/media/File:Tibet_House_NYC.jpg",
+        "location": "22 W 15th St, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tibet_House"
+    },
+    {
+        "name": "SculptureCenter",
+        "image": "https://en.wikipedia.org/wiki/SculptureCenter#/media/File:SculptureCenter's_New_Building.jpg",
+        "location": "44-19 Purves St, Long Island City, NY 11101",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/SculptureCenter"
+    },
+    {
+        "name": "Rose Museum",
+        "image": "https://carnegiehall.imgix.net/-/media/CarnegieHall/Images/About/Rentals/Rose-Museum/Rose-Museum-7.jpg?fit=crop&crop=faces",
+        "location": "Carnegie Hall, 154 W 57th St, New York, NY 10019",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rose_Museum"
+    },
+    {
+        "name": "Greater Astoria Historical Society",
+        "image": "https://lp-cms-production.imgix.net/2020-10/CPB_NYC_046.jpg?fit=crop&ar=1%3A1&w=1200&auto=format&q=75",
+        "location": "44-02 23rd St Suite 219, Long Island City, NY 11101",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Astoria_Historical_Society"
+    },
+    {
+        "name": "Castle Williams",
+        "image": "https://en.wikipedia.org/wiki/Castle_Williams#/media/File:Castle_Williams_SIF_jeh.JPG",
+        "location": "Governors Island",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castle_Williams"
+    },
+    {
+        "name": "Museum of Jewish Heritage",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Jewish_Heritage#/media/File:Museum_of_Jewish_Heritage_005.JPG",
+        "location": "36 Battery Pl, New York, NY 10280",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Jewish_Heritage"
+    },
+    {
+        "name": "Czech Centre New York",
+        "image": "https://new-york.czechcentres.cz/en/img/http/czechcentres.cz/new-york/blog_posts/bohemian_national_hall.jpg/a6c911899192325e05d4b02808fa3ff0.jpg",
+        "location": "321 E 73rd St, New York, NY 10021",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Center_New_York"
+    },
+    {
+        "name": "The Grolier Club",
+        "image": "https://en.wikipedia.org/wiki/Grolier_Club#/media/File:Grolier_Club.jpg",
+        "location": "47 E 60th St, New York, NY 10022",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grolier_Club"
+    },
+    {
+        "name": "Bartow-Pell Mansion Museum",
+        "image": "https://en.wikipedia.org/wiki/Bartow%E2%80%93Pell_Mansion#/media/File:Bartow-pell-mansion.jpg",
+        "location": "895 Shore Rd, The Bronx, NY 10464",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bartow-Pell_Mansion"
+    },
+    {
+        "name": "Morris-Jumel Mansion",
+        "image": "https://en.wikipedia.org/wiki/Morris%E2%80%93Jumel_Mansion#/media/File:2014_Morris-Jumel_Mansion_from_southwest.jpg",
+        "location": "65 Jumel Terrace, New York, NY 10032",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morris-Jumel_Mansion"
+    },
+    {
+        "name": "Wyckoff House",
+        "image": "https://en.wikipedia.org/wiki/Wyckoff_House#/media/File:Wyckoff-house.jpg",
+        "location": "5816 Clarendon Rd, Brooklyn, NY 11203",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyckoff_House"
+    },
+    {
+        "name": "Brooklyn Children's Museum",
+        "image": "https://en.wikipedia.org/wiki/Brooklyn_Children%27s_Museum#/media/File:Brooklyn_Children's_Museum_(52142426214).jpg",
+        "location": "145 Brooklyn Ave, Brooklyn, NY 11213",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Children%27s_Museum"
+    },
+    {
+        "name": "New York Earth Room",
+        "image": "https://en.wikipedia.org/wiki/New_York_Earth_Room#/media/File:New_York_Earth_Room_in_2024.jpg",
+        "location": "141 Wooster St, New York, NY 10012",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Earth_Room"
+    },
+    {
+        "name": "Bronx River Art Center",
+        "image": "https://bronxriver.org/wp-content/uploads/2021/05/bronx-river-art-center-building.jpg",
+        "location": "1087 E Tremont Ave, The Bronx, NY 10460",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bronx_River_Art_Center"
+    },
+    {
+        "name": "Williamsburg Art & Historical Center",
+        "image": "https://www.wahcenter.net/images/KingsCountySavingsBank2007.jpg",
+        "location": "135 Broadway, Williamsburg Brooklyn, NY 11211",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Williamsburg_Art_%26_Historical_Center"
+    },
+    {
+        "name": "Museum of Reclaimed Urban Space",
+        "image": "https://en.wikipedia.org/wiki/Museum_of_Reclaimed_Urban_Space#/media/File:Outdoor_Performance.jpg",
+        "location": "155 Avenue C, New York, NY 10009",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Reclaimed_Urban_Space"
+    },
+    {
+        "name": "Billiou-Stillwell-Perine House",
+        "image": "https://en.wikipedia.org/wiki/Billiou%E2%80%93Stillwell%E2%80%93Perine_House#/media/File:Perine-house.JPG",
+        "location": "1476 Richmond Rd, Staten Island, NY 10304",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Billiou-Stillwell-Perine_House"
+    },
+    {
+        "name": "Lefferts Historic House",
+        "image": "https://en.wikipedia.org/wiki/Lefferts_Historic_House#/media/File:Prospect_Park_Brooklyn_Feb_2019_110.jpg",
+        "location": "452 Flatbush Ave, Brooklyn, NY 11225",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lefferts_Historic_House"
+    },
+    {
+        "name": "Voelker Orth Museum",
+        "image": "https://en.wikipedia.org/wiki/Voelker_Orth_Museum#/media/File:Voelker_Orth_01.JPG",
+        "location": "14919 38th Ave, Flushing, NY 11354",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Voelker_Orth_Museum"
+    },
+    {
+        "name": "Girl Scout Museum and Archives",
+        "image": "https://i0.wp.com/gshistory.com/wp-content/uploads/2015/03/1601373_10206412966466694_6603980650647004424_n.jpg?fit=960%2C720&ssl=1",
+        "location": "420 5th Ave, New York, NY 10018",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Girl_Scout_Museum_and_Archives"
+    },
+    {
+        "name": "Newhouse Center for Contemporary Art",
+        "image": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/T4JYG73HJBBOVIJAEWJOOHLBIU.JPG",
+        "location": "Building C, 1000 Richmond Terrace, Staten Island, NY 10301",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newhouse_Center_for_Contemporary_Art"
+    },
+    {
+        "name": "White Columns Gallery",
+        "image": "https://static01.nyt.com/images/2021/06/11/arts/10white-columns-5/10white-columns-5-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "location": "91 Horatio St, New York, NY 10014",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/White_Columns"
+    },
+    {
+        "name": "Center for Jewish History",
+        "image": "https://en.wikipedia.org/wiki/Center_for_Jewish_History#/media/File:Center_for_Jewish_History_NYC.jpg",
+        "location": "15 W 16th St, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Center_for_Jewish_History"
+    },
+    {
+        "name": "City Reliquary Museum",
+        "image": "https://en.wikipedia.org/wiki/The_City_Reliquary#/media/File:City_Reliquary_(57305).jpg",
+        "location": "370 Metropolitan Ave, Brooklyn, NY 11211",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/City_Reliquary_Museum"
+    },
+    {
+        "name": "Kingsland Homestead",
+        "image": "https://en.wikipedia.org/wiki/Kingsland_Homestead#/media/File:Kingsland_Homestead_west_porch_jeh.jpg",
+        "location": "143-35 37th Avenue, Flushing, NY 11354",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kingsland_Homestead"
+    },
+    {
+        "name": "Seguine Mansion",
+        "image": "https://en.wikipedia.org/wiki/Seguine_Mansion#/media/File:Seguine-burke-mansion.JPG",
+        "location": "440 Seguine Ave, Staten Island, NY 10309",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Seguine_Mansion"
+    },
+    {
+        "name": "John Bowne House",
+        "image": "https://en.wikipedia.org/wiki/John_Bowne_House#/media/File:Bowne_House_2018.JPG",
+        "location": "37-01 Bowne St, Flushing, NY 11354",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Bowne_House"
+    },
+    {
+        "name": "The Museum of Bronx History (MBH) at the Valentine-Varian House",
+        "image": "https://en.wikipedia.org/wiki/Valentine%E2%80%93Varian_House#/media/File:Valentine-varian-house.JPG",
+        "location": "3266 Bainbridge Avenue, Norwood, Bronx, New York 10467",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Museum_of_Bronx_History"
+    },
+    {
+        "name": "A.I.R. Gallery",
+        "image": "https://en.wikipedia.org/wiki/A.I.R._Gallery#/media/File:A.I.R._Gallery,_155_Plymouth_Street,_Brooklyn,_NY,_Jacqueline_Ferrante,_gallery_assistant.jpg",
+        "location": "155 Plymouth St, Brooklyn, NY 11201",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/A.I.R._Gallery"
+    },
+    {
+        "name": "Alice Austen House",
+        "image": "https://en.wikipedia.org/wiki/Alice_Austen_House#/media/File:Clear_Comfort_01.jpg",
+        "location": "2 Hylan Blvd, Staten Island, NY 10305",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alice_Austen_House"
+    },
+    {
+        "name": "Americas Society",
+        "image": "https://en.wikipedia.org/wiki/Americas_Society#/media/File:SalonSimonBolivarAS.jpg",
+        "location": "680 Park Ave, New York, NY 10065",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Americas_Society"
+    },
+    {
+        "name": "Aperture Gallery",
+        "image": "https://en.wikipedia.org/wiki/Aperture_Foundation#/media/File:Aperture_Gallery_in_Chelsea,_547_W_27th_Street_(New_York_City).jpg",
+        "location": "547 W 27th St, New York, NY 10001",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aperture_Foundation"
+    },
+    {
+        "name": "Artists Space",
+        "image": "https://en.wikipedia.org/wiki/Artists_Space#/media/File:80_White_Street_Exterior_.jpg",
+        "location": "80 White St, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Artists_Space"
+    },
+    {
+        "name": "Asia Society",
+        "image": "https://en.wikipedia.org/wiki/Asia_Society#/media/File:Asia_Society_(49957992536).jpg",
+        "location": "725 Park Ave, New York, NY 10021",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asia_Society"
+    },
+    {
+        "name": "Austrian Cultural Forum New York",
+        "image": "https://en.wikipedia.org/wiki/Austrian_Cultural_Forum_New_York#/media/File:ACFNYFassade.jpg",
+        "location": "11 E 52nd St, New York, NY 10022",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austrian_Cultural_Forum_New_York"
+    },
+    {
+        "name": "Bard Graduate Center",
+        "image": "https://en.wikipedia.org/wiki/Bard_Graduate_Center#/media/File:WTM3_Chenumuri_0014.jpg",
+        "location": "18 W 86th St, New York, NY 10024",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bard_Graduate_Center"
+    },
+    {
+        "name": "Brooklyn Navy Yard",
+        "image": "https://en.wikipedia.org/wiki/Brooklyn_Navy_Yard#/media/File:Brooklyn_Navy_Yard_October_23,_2018_(44797855804).jpg",
+        "location": "63 Flushing Ave, Brooklyn, NY 11205",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Navy_Yard"
+    },
+    {
+        "name": "BRIC Arts Media",
+        "image": "https://en.wikipedia.org/wiki/BRIC_Arts_Media#/media/File:BRIC_house_night_jeh.jpg",
+        "location": "647 Fulton St, Brooklyn, NY 11217",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/BRIC_Arts_Media"
+    },
+    {
+        "name": "Center for Architecture",
+        "image": "https://en.wikipedia.org/wiki/Center_for_Architecture#/media/File:AIA_New_York_Center_for_Architecture_(54024538548).jpg",
+        "location": "536 LaGuardia Pl, New York, NY 10012",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Center_for_Architecture"
+    },
+    {
+        "name": "China Institute",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/China_Institute_seal.svg/1200px-China_Institute_seal.svg.png",
+        "location": "100 Washington St, New York, NY 10006",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China_Institute"
+    },
+    {
+        "name": "Clemente Soto Velez Cultural and Educational Center",
+        "image": "https://en.wikipedia.org/wiki/Clemente_Soto_Velez_Cultural_and_Educational_Center#/media/File:Clemente_Soto_Velez.jpg",
+        "location": "107 Suffolk St, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Clemente_Soto_Velez_Cultural_and_Educational_Center"
+    },
+    {
+        "name": "Conference House",
+        "image": "https://en.wikipedia.org/wiki/Conference_House#/media/File:Conference-house-staten-island.jpg",
+        "location": "7455 Hylan Blvd, Staten Island, NY 10307",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Conference_House"
+    },
+    {
+        "name": "Cooper Union",
+        "image": "https://en.wikipedia.org/wiki/Cooper_Union#/media/File:Cooper_Union_School_of_the_Arts_CSq_E6_jeh.jpg",
+        "location": "30 Cooper Square, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cooper_Union"
+    },
+    {
+        "name": "Dia Art Foundation",
+        "image": "https://en.wikipedia.org/wiki/Dia_Art_Foundation#/media/File:Diabeacon_2006.jpg",
+        "location": "535 W 22nd St, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dia_Art_Foundation"
+    },
+    {
+        "name": "The Drawing Center",
+        "image": "https://en.wikipedia.org/wiki/Drawing_Center#/media/File:The_Drawing_Center_-_NYC_(48129060193).jpg",
+        "location": "35 Wooster St, New York, NY 10013",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Drawing_Center"
+    },
+    {
+        "name": "Dyckman House",
+        "image": "https://en.wikipedia.org/wiki/Dyckman_House#/media/File:Dyckman_House_Bwy_cloudy_jeh_crop.jpg",
+        "location": "4881 Broadway, New York, NY 10034",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dyckman_House"
+    },
+    {
+        "name": "Grey Art Museum",
+        "image": "https://en.wikipedia.org/wiki/Grey_Art_Museum#/media/File:Silver_Center1.jpg",
+        "location": "100 Washington Square E, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grey_Art_Museum"
+    },
+    {
+        "name": "Hebrew Union College – Jewish Institute of Religion",
+        "image": "https://en.wikipedia.org/wiki/Hebrew_Union_College_%E2%80%93_Jewish_Institute_of_Religion#/media/File:H_U_C_Jerusalem.JPG",
+        "location": "1 W 4th St, New York, NY 10012",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hebrew_Union_College_%E2%80%93_Jewish_Institute_of_Religion"
+    },
+    {
+        "name": "Hispanic Society of America",
+        "image": "https://en.wikipedia.org/wiki/Hispanic_Society_of_America#/media/File:HispanicSocietyofAmerica.jpg",
+        "location": "613 W 155th St, New York, NY 10032",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hispanic_Society_of_America"
+    },
+    {
+        "name": "Hostos Center for the Arts & Culture",
+        "image": "https://en.wikipedia.org/wiki/Hostos_Center_for_the_Arts_%26_Culture#/media/File:Repertorytheatre.png",
+        "location": "450 Grand Concourse, Bronx, NY 10451",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hostos_Center_for_the_Arts_%26_Culture"
+    },
+    {
+        "name": "International Center of Photography",
+        "image": "https://en.wikipedia.org/wiki/International_Center_of_Photography#/media/File:International_Center_of_Photography_at_79_Essex_Street.jpg",
+        "location": "79 Essex St, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/International_Center_of_Photography"
+    },
+    {
+        "name": "Print Center New York",
+        "image": "https://images.squarespace-cdn.com/content/v1/62f518e354684c274c1be28c/1691702849102-FWXEP66EQ1WXYUC9ANCG/20230601_Argenis_Apolinario_Print_Center_New_Voices_Opening_2723.jpg",
+        "location": "508 W 26th St, New York, NY 10001",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Print_Center_New_York"
+    },
+    {
+        "name": "Jamaica Center for Arts & Learning",
+        "image": "https://en.wikipedia.org/wiki/Jamaica_Center_for_Arts_%26_Learning#/media/File:Office_of_the_Register_2012-09-27_161-10_Jamaica_Av_jeh.jpg",
+        "location": "161-04 Jamaica Ave, Jamaica, NY 11432",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica_Center_for_Arts_%26_Learning"
+    },
+    {
+        "name": "Japan Society",
+        "image": "https://en.wikipedia.org/wiki/Japan_Society_(Manhattan)#/media/File:Japan_Society_E47_jeh.JPG",
+        "location": "333 E 47th St, New York, NY 10017",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan_Society_(Manhattan)"
+    },
+    {
+        "name": "Jewish Theological Seminary of America",
+        "image": "https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America#/media/File:Jewish_Theological_Seminary_of_America_(51241367198).jpg",
+        "location": "3080 Broadway, New York, NY 10027",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "name": "John J. Harvey",
+        "image": "https://en.wikipedia.org/wiki/John_J._Harvey#/media/File:John_J._Harvey_Fireboat,_City_of_Water_Day_(42690282484).jpg",
+        "location": "Pier 66, New York, NY 10011",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_J._Harvey"
+    },
+    {
+        "name": "The Korea Society",
+        "image": "https://en.wikipedia.org/wiki/The_Korea_Society#/media/File:Koreasocietylogo.jpg",
+        "location": "350 Madison Ave, New York, NY 10017",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Korea_Society"
+    },
+    {
+        "name": "Lewish H. Latimer House",
+        "image": "https://en.wikipedia.org/wiki/Lewis_H._Latimer_House#/media/File:Lewis_Latimer_house_34-31_137th_St_Flushing_jeh.jpg",
+        "location": "34-41 137th St, Flushing, NY 11354",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lewis_H._Latimer_House"
+    },
+    {
+        "name": "The Living Museum",
+        "image": "https://roadtrippers.com/wp-content/uploads/2019/03/IMG_6271.jpg",
+        "location": "800 Riverside Dr, New York, NY 10032",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Living_Museum"
+    },
+    {
+        "name": "MoMA PS1",
+        "image": "https://en.wikipedia.org/wiki/MoMA_PS1#/media/File:MoMA_PS1_FFP.jpg",
+        "location": "22-25 Jackson Ave, Long Island City, NY 11101",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/MoMA_PS1"
+    },
+    {
+        "name": "The Museum at Eldridge Street",
+        "image": "https://en.wikipedia.org/wiki/Eldridge_Street_Synagogue#/media/File:Eldridge_Street_Synagogue_(42773).jpg",
+        "location": "12 Eldridge St, New York, NY 10002",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eldridge_Street_Synagogue#Museum"
+    },
+    {
+        "name": "Society of Illustrators",
+        "image": "https://en.wikipedia.org/wiki/Society_of_Illustrators#/media/File:Society_of_Illustrators_(48064102492).jpg",
+        "location": "128 E 63rd St, New York, NY 10065",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Society_of_Illustrators"
+    },
+    {
+        "name": "National Light House Museum",
+        "image": "https://en.wikipedia.org/wiki/National_Lighthouse_Museum_(New_York_City)#/media/File:National_Lighthouse_Museum_Educational_Resource_Center.jpg",
+        "location": "200 The Promenade at Lighthouse Point, Staten Island, NY 10301",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_Lighthouse_Museum_(New_York_City)"
+    },
+    {
+        "name": "The Africa Center",
+        "image": "https://en.wikipedia.org/wiki/The_Africa_Center#/media/File:The_Africa_Center_(48052806767).jpg",
+        "location": "1280 5th Ave, New York, NY 10029",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Africa_Center"
+    },
+    {
+        "name": "New York Yankees Museum",
+        "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/tjv9j6fccyzb6webpm40.jpg",
+        "location": "1 E 161st St, Bronx, NY 10451",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Yankees_Museum"
+    },
+    {
+        "name": "Salmagundi Club",
+        "image": "https://en.wikipedia.org/wiki/Salmagundi_Club#/media/File:Salmagundi_Club_(54023408832).jpg",
+        "location": "47 5th Ave, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salmagundi_Club"
+    },
+    {
+        "name": "Swiss Institute Contemporary Art New York",
+        "image": "https://en.wikipedia.org/wiki/Swiss_Institute_Contemporary_Art_New_York#/media/File:Swiss_Institute_18_Wooster_Street.jpg",
+        "location": "38 St Marks Pl, New York, NY 10003",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Swiss_Institute_Contemporary_Art_New_York"
+    },
+    {
+        "name": "Terrain Gallery",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdYXJbe43kLYaMNj_RVOqeAzruRCThLCyow&s",
+        "location": "526 W 26th St, New York, NY 10001",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Terrain_Gallery"
+    },
+    {
+        "name": "The Shed",
+        "image": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)#/media/File:The_Shed_-_Complete_(48206488176).jpg",
+        "location": "545 W 30th St, New York, NY 10001",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)"
+    },
+    {
+        "name": "Harry F. Sinclair House",
+        "image": "https://en.wikipedia.org/wiki/Harry_F._Sinclair_House#/media/File:Harry_F_Sinclair_House_9730.JPG",
+        "location": "2 E 79th St, New York, NY 10075",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harry_F._Sinclair_House"
+    },
+    {
+        "name": "Vander Ende-Onderdonk House",
+        "image": "https://en.wikipedia.org/wiki/Vander_Ende%E2%80%93Onderdonk_House#/media/File:Vander_Ende_Onderdonk_back_jeh.jpg",
+        "location": "1820 Flushing Ave, Ridgewood, NY 11385",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vander_Ende%E2%80%93Onderdonk_House"
+    }
+]

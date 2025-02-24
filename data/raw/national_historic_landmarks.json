@@ -1,0 +1,698 @@
+[
+    {
+        "name": "69th Regiment Armory",
+        "image": "https://en.wikipedia.org/wiki/File:69th_Regiment_Armory_(51710072774).jpg",
+        "location": "40\u00b044\u203230\u2033N 73\u00b059\u203201\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/69th_Regiment_Armory"
+    },
+    {
+        "name": "Admiral David Glasgow Farragut Gravesite",
+        "image": "https://en.wikipedia.org/wiki/File:Admiral_David_Farragut_Monument_1024.jpg",
+        "location": "40\u00b053\u203232\u2033N 73\u00b051\u203257\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Admiral_David_Glasgow_Farragut_Gravesite"
+    },
+    {
+        "name": "African Burial Ground",
+        "image": "https://en.wikipedia.org/wiki/File:Lossy-page1-7216px-African_Burial_Ground,_New_York,_New_York_LCCN2010719187_(edited).jpg",
+        "location": "40\u00b042\u203252\u2033N 74\u00b000\u203216\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/African_Burial_Ground"
+    },
+    {
+        "name": "Ambrose (lightship)",
+        "image": "https://en.wikipedia.org/wiki/File:A_Walk_in_Manhattan,_New_York_(3757347311).jpg",
+        "location": "40\u00b042\u203217\u2033N 74\u00b000\u203209\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ambrose_(lightship)"
+    },
+    {
+        "name": "American Stock Exchange",
+        "image": "https://en.wikipedia.org/wiki/File:TrinityChurchManhattan2019AmericanStockExchangeFromGraveyard.jpg",
+        "location": "40\u00b042\u203232\u2033N 74\u00b000\u203245\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Stock_Exchange"
+    },
+    {
+        "name": "Louis Armstrong House",
+        "image": "https://en.wikipedia.org/wiki/File:Louis_Armstrong_House_02_(cropped).jpg",
+        "location": "40\u00b045\u203216\u2033N 73\u00b051\u203242\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louis_Armstrong_House"
+    },
+    {
+        "name": "Chester A. Arthur House",
+        "image": "https://en.wikipedia.org/wiki/File:Chester_A._Arthur_home.jpg",
+        "location": "40\u00b044\u203234\u2033N 73\u00b058\u203256\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chester_A._Arthur_House"
+    },
+    {
+        "name": "Alice Austen House",
+        "image": "https://en.wikipedia.org/wiki/File:Alice_Austen_House_07.JPG",
+        "location": "40\u00b036\u203254\u2033N 74\u00b003\u203247\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alice_Austen_House"
+    },
+    {
+        "name": "Bartow\u2013Pell Mansion",
+        "image": "https://en.wikipedia.org/wiki/File:Bartow-pell-mansion.jpg",
+        "location": "40\u00b052\u203218\u2033N 73\u00b048\u203220\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bartow\u2013Pell_Mansion"
+    },
+    {
+        "name": "Bayard-Condict Building",
+        "image": "https://en.wikipedia.org/wiki/File:SullivanNY1.jpg",
+        "location": "40\u00b043\u203235\u2033N 73\u00b059\u203244\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bayard-Condict_Building"
+    },
+    {
+        "name": "Bell Laboratories Building",
+        "image": "https://en.wikipedia.org/wiki/File:Westbeth_029.jpg",
+        "location": "40\u00b044\u203213\u2033N 74\u00b000\u203236\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bell_Laboratories_Building"
+    },
+    {
+        "name": "Brooklyn Bridge",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_City_(New_York,_USA),_Brooklyn_Bridge_--_2012_--_6630.jpg",
+        "location": "40\u00b042\u203223\u2033N 73\u00b059\u203251\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+    },
+    {
+        "name": "Brooklyn Heights Historic District",
+        "image": "https://en.wikipedia.org/wiki/File:Brooklyn_Heights_Townhouses.jpg",
+        "location": "40\u00b041\u203248\u2033N 73\u00b059\u203248\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brooklyn_Heights_Historic_District"
+    },
+    {
+        "name": "Center for Brooklyn History",
+        "image": "https://en.wikipedia.org/wiki/File:Brooklyn_Historical_Society_building.jpg",
+        "location": "40\u00b041\u203241\u2033N 73\u00b059\u203234\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Center_for_Brooklyn_History"
+    },
+    {
+        "name": "Ralph Johnson Bunche House",
+        "image": "https://en.wikipedia.org/wiki/File:Ralph-johnson-bunch-house.jpg",
+        "location": "40\u00b042\u203223\u2033N 73\u00b050\u203213\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ralph_Johnson_Bunche_House"
+    },
+    {
+        "name": "Carnegie Hall",
+        "image": "https://en.wikipedia.org/wiki/File:Carnegie_Hall_-_Full_(48155558466).jpg",
+        "location": "40\u00b045\u203254\u2033N 73\u00b058\u203249\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carnegie_Hall"
+    },
+    {
+        "name": "Andrew Carnegie Mansion",
+        "image": "https://en.wikipedia.org/wiki/File:Cooper_Hewitt_(48059131921).jpg",
+        "location": "40\u00b047\u203204\u2033N 73\u00b057\u203228\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andrew_Carnegie_Mansion"
+    },
+    {
+        "name": "Central Park",
+        "image": "https://en.wikipedia.org/wiki/File:Central_Park_New_York_City_New_York_23_cropped.jpg",
+        "location": "40\u00b046\u203255\u2033N 73\u00b057\u203258\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Park"
+    },
+    {
+        "name": "Central Synagogue",
+        "image": "https://en.wikipedia.org/wiki/File:Central_Synagogue_1.JPG",
+        "location": "40\u00b045\u203235\u2033N 73\u00b058\u203214\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Synagogue"
+    },
+    {
+        "name": "Chamber of Commerce Building",
+        "image": "https://en.wikipedia.org/wiki/File:65-liberty-st.jpg",
+        "location": "40\u00b042\u203234\u2033N 74\u00b000\u203236\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chamber_of_Commerce_Building"
+    },
+    {
+        "name": "Chrysler Building",
+        "image": "https://en.wikipedia.org/wiki/File:Chrysler_Building_spire,_Manhattan,_by_Carol_Highsmith_(LOC_highsm.04444).png",
+        "location": "40\u00b045\u203206\u2033N 73\u00b058\u203231\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chrysler_Building"
+    },
+    {
+        "name": "Church of the Ascension",
+        "image": "https://en.wikipedia.org/wiki/File:Church_of_the_Ascension_by_David_Shankbone.jpg",
+        "location": "40\u00b044\u203201\u2033N 73\u00b059\u203244\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Church_of_the_Ascension"
+    },
+    {
+        "name": "City Hall",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_City_Hall_exterior,_October_2016.jpg",
+        "location": "40\u00b042\u203246\u2033N 74\u00b000\u203221\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/City_Hall"
+    },
+    {
+        "name": "Conference House",
+        "image": "https://en.wikipedia.org/wiki/File:Conference-house-staten-island.jpg",
+        "location": "40\u00b030\u203211\u2033N 74\u00b015\u203211\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Conference_House"
+    },
+    {
+        "name": "Will Marion Cook House",
+        "image": "https://en.wikipedia.org/wiki/File:Marion-cook-house.jpg",
+        "location": "40\u00b049\u203205\u2033N 73\u00b056\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Will_Marion_Cook_House"
+    },
+    {
+        "name": "Cooper Union",
+        "image": "https://en.wikipedia.org/wiki/File:The_Cooper_Union%27s_Foundation_Building_-_North_Side_(48072759802).jpg",
+        "location": "40\u00b043\u203246\u2033N 73\u00b059\u203226\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cooper_Union"
+    },
+    {
+        "name": "Daily News Building",
+        "image": "https://en.wikipedia.org/wiki/File:Daily_News_Building.jpg",
+        "location": "40\u00b044\u203258\u2033N 73\u00b058\u203225\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Daily_News_Building"
+    },
+    {
+        "name": "Dakota Apartments",
+        "image": "https://en.wikipedia.org/wiki/File:The_Dakota_(48269594271).jpg",
+        "location": "40\u00b046\u203236\u2033N 73\u00b058\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dakota_Apartments"
+    },
+    {
+        "name": "Dyckman House",
+        "image": "https://en.wikipedia.org/wiki/File:Dyckman_House_from_west.jpg",
+        "location": "40\u00b052\u203203\u2033N 73\u00b055\u203224\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dyckman_House"
+    },
+    {
+        "name": "Eldridge Street Synagogue",
+        "image": "https://en.wikipedia.org/wiki/File:Museum_at_Elridge_Street_superdervish.jpg",
+        "location": "40\u00b042\u203254\u2033N 73\u00b059\u203238\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eldridge_Street_Synagogue"
+    },
+    {
+        "name": "Duke Ellington House",
+        "image": "https://en.wikipedia.org/wiki/File:Duke-ellington.jpg",
+        "location": "40\u00b049\u203256\u2033N 73\u00b056\u203227\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Duke_Ellington_House"
+    },
+    {
+        "name": "Empire State Building",
+        "image": "https://en.wikipedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+        "location": "40\u00b044\u203254\u2033N 73\u00b059\u203208\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Empire_State_Building"
+    },
+    {
+        "name": "Equitable Building",
+        "image": "https://en.wikipedia.org/wiki/File:DSCN3512_equitablebuilding_e.jpg",
+        "location": "40\u00b042\u203235\u2033N 74\u00b000\u203240\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Equitable_Building"
+    },
+    {
+        "name": "Hamilton Fish House",
+        "image": "https://en.wikipedia.org/wiki/File:Stuyvesant_Fish_House_(19_Gramercy_Park_South)_03.jpg",
+        "location": "40\u00b043\u203248\u2033N 73\u00b059\u203219\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hamilton_Fish_House"
+    },
+    {
+        "name": "Flatiron Building",
+        "image": "https://en.wikipedia.org/wiki/File:Flatiron_Building,_Manhattan,_New_York,_USA.jpg",
+        "location": "40\u00b044\u203228\u2033N 73\u00b059\u203223\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Flatiron_Building"
+    },
+    {
+        "name": "Founder's Hall, The Rockefeller University",
+        "image": "https://en.wikipedia.org/wiki/File:Founders-hall.jpg",
+        "location": "40\u00b045\u203245\u2033N 73\u00b057\u203218\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Founder's_Hall,_The_Rockefeller_University"
+    },
+    {
+        "name": "The Frick Collection and Frick Art Reference Library Building",
+        "image": "https://en.wikipedia.org/wiki/File:The_Frick_Collection_(49958273187).jpg",
+        "location": "40\u00b046\u203217\u2033N 73\u00b058\u203202\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Frick_Collection_and_Frick_Art_Reference_Library_Building"
+    },
+    {
+        "name": "Governors Island",
+        "image": "https://en.wikipedia.org/wiki/File:Liggett_Hall_New_York_September_2016_004.jpg",
+        "location": "40\u00b041\u203229\u2033N 74\u00b000\u203258\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Governors_Island"
+    },
+    {
+        "name": "Grace Church",
+        "image": "https://en.wikipedia.org/wiki/File:Grace_Church_steeple_from_south.jpg",
+        "location": "40\u00b043\u203254\u2033N 73\u00b059\u203231\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grace_Church"
+    },
+    {
+        "name": "Grand Central Terminal",
+        "image": "https://en.wikipedia.org/wiki/File:Image-Grand_central_Station_Outside_Night_2.jpg",
+        "location": "40\u00b045\u203210\u2033N 73\u00b058\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+    },
+    {
+        "name": "Green-Wood Cemetery",
+        "image": "https://en.wikipedia.org/wiki/File:Green-Wood_Cemetery_gate_(53784p)_cropped.jpg",
+        "location": "40\u00b039\u203208\u2033N 73\u00b059\u203228\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Green-Wood_Cemetery"
+    },
+    {
+        "name": "Hamilton Grange National Memorial",
+        "image": "https://en.wikipedia.org/wiki/File:Hamilton_Grange_National_Memorial_-_Patio_(48170423177).jpg",
+        "location": "40\u00b049\u203217\u2033N 73\u00b056\u203250\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hamilton_Grange_National_Memorial"
+    },
+    {
+        "name": "Solomon R. Guggenheim Museum",
+        "image": "https://en.wikipedia.org/wiki/File:Solomon_R._Guggenheim_Museum_(48059131351).jpg",
+        "location": "40\u00b046\u203258\u2033N 73\u00b057\u203232\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+    },
+    {
+        "name": "Henry Street Settlement and Neighborhood Playhouse",
+        "image": "https://en.wikipedia.org/wiki/File:Henry-st-settlement.jpg",
+        "location": "40\u00b042\u203250\u2033N 73\u00b059\u203207\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henry_Street_Settlement_and_Neighborhood_Playhouse"
+    },
+    {
+        "name": "Matthew Henson Residence",
+        "image": "https://en.wikipedia.org/wiki/File:246-west-150.jpg",
+        "location": "40\u00b049\u203232\u2033N 73\u00b056\u203220\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matthew_Henson_Residence"
+    },
+    {
+        "name": "Hispanic Society of America",
+        "image": "https://en.wikipedia.org/wiki/File:Hispanic_Society_of_America_-_Exterior.jpg",
+        "location": "40\u00b050\u203201\u2033N 73\u00b056\u203247\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hispanic_Society_of_America"
+    },
+    {
+        "name": "Holland Tunnel",
+        "image": "https://en.wikipedia.org/wiki/File:Holland_tunnel.jpg",
+        "location": "40\u00b043\u203239\u2033N 74\u00b001\u203217\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Holland_Tunnel"
+    },
+    {
+        "name": "USS Intrepid",
+        "image": "https://en.wikipedia.org/wiki/File:USS_Intrepid_(CV-11)_operating_in_the_Philippine_Sea_in_November_1944_(NH_97468).jpg",
+        "location": "40\u00b045\u203253\u2033N 74\u00b000\u203204\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/USS_Intrepid"
+    },
+    {
+        "name": "James Weldon Johnson Residence",
+        "image": "https://en.wikipedia.org/wiki/File:187-west-135th.jpg",
+        "location": "40\u00b048\u203255\u2033N 73\u00b056\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_Weldon_Johnson_Residence"
+    },
+    {
+        "name": "King Manor",
+        "image": "https://en.wikipedia.org/wiki/File:Rufus-king-house.jpg",
+        "location": "40\u00b042\u203211\u2033N 73\u00b048\u203214\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/King_Manor"
+    },
+    {
+        "name": "Lettie G. Howard(schooner)",
+        "image": "https://en.wikipedia.org/wiki/File:Schooner_Lettie_G._Howard,_South_Street_Seaport_Museum,_New_York_(New_York_County,_New_York).jpg",
+        "location": "40\u00b042\u203222\u2033N 74\u00b000\u203212\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lettie_G._Howard(schooner)"
+    },
+    {
+        "name": "Lorillard Snuff Mill",
+        "image": "https://en.wikipedia.org/wiki/File:Lorillard-snuff-mill.JPG",
+        "location": "40\u00b051\u203235\u2033N 73\u00b052\u203234\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lorillard_Snuff_Mill"
+    },
+    {
+        "name": "Low Memorial Library",
+        "image": "https://en.wikipedia.org/wiki/File:Columbia_University_New_York_November_2016_002.jpg",
+        "location": "40\u00b048\u203230\u2033N 73\u00b057\u203243\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Low_Memorial_Library"
+    },
+    {
+        "name": "R. H. Macy and Company Store (Macy's)",
+        "image": "https://en.wikipedia.org/wiki/File:Macy%27s_Herald_Square_August_2017_01.jpg",
+        "location": "40\u00b045\u203201\u2033N 73\u00b059\u203218\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/R._H._Macy_and_Company_Store_(Macy's)"
+    },
+    {
+        "name": "McGraw-Hill Building",
+        "image": "https://en.wikipedia.org/wiki/File:Mcgraw-hill-42nd-st_1.jpg",
+        "location": "40\u00b045\u203226\u2033N 73\u00b059\u203228\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/McGraw-Hill_Building"
+    },
+    {
+        "name": "Claude McKay Residence",
+        "image": "https://en.wikipedia.org/wiki/File:180-west135th.jpg",
+        "location": "40\u00b048\u203251\u2033N 73\u00b056\u203230\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Claude_McKay_Residence"
+    },
+    {
+        "name": "Metropolitan Life Insurance Company Tower",
+        "image": "https://en.wikipedia.org/wiki/File:Metropolitan_Life_Tower_from_the_East_River_(6217379852).jpg",
+        "location": "40\u00b044\u203228\u2033N 73\u00b059\u203215\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Life_Insurance_Company_Tower"
+    },
+    {
+        "name": "Metropolitan Museum of Art",
+        "image": "https://en.wikipedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg",
+        "location": "40\u00b046\u203244\u2033N 73\u00b057\u203249\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art"
+    },
+    {
+        "name": "J. Pierpont Morgan Library",
+        "image": "https://en.wikipedia.org/wiki/File:Morgan_Library_%26_Museum,_New_York_2017_02.jpg",
+        "location": "40\u00b044\u203256\u2033N 73\u00b058\u203254\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/J._Pierpont_Morgan_Library"
+    },
+    {
+        "name": "Morris-Jumel Mansion",
+        "image": "https://en.wikipedia.org/wiki/File:Morris-jumel.jpg",
+        "location": "40\u00b050\u203204\u2033N 73\u00b056\u203219\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morris-Jumel_Mansion"
+    },
+    {
+        "name": "National City Bank Building",
+        "image": "https://en.wikipedia.org/wiki/File:55-wall-street.jpg",
+        "location": "40\u00b042\u203222\u2033N 74\u00b000\u203233\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/National_City_Bank_Building"
+    },
+    {
+        "name": "New York Amsterdam News Building",
+        "image": "https://en.wikipedia.org/wiki/File:2293-seventh-ave.jpg",
+        "location": "40\u00b048\u203254\u2033N 73\u00b056\u203241\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Amsterdam_News_Building"
+    },
+    {
+        "name": "New York Botanical Garden",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_Botanical_Garden_October_2016_004.jpg",
+        "location": "40\u00b051\u203249\u2033N 73\u00b052\u203242\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden"
+    },
+    {
+        "name": "New York Cotton Exchange",
+        "image": "https://en.wikipedia.org/wiki/File:1_Hanover_Square_001.JPG",
+        "location": "40\u00b042\u203216\u2033N 74\u00b000\u203237\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Cotton_Exchange"
+    },
+    {
+        "name": "New York Life Building",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_Life_Insurance_Building.jpg",
+        "location": "40\u00b044\u203234\u2033N 73\u00b059\u203208\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Life_Building"
+    },
+    {
+        "name": "New York Public Library",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_Public_Library_-_Main_Branch_(51396225599).jpg",
+        "location": "40\u00b045\u203212\u2033N 73\u00b058\u203256\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Public_Library"
+    },
+    {
+        "name": "New York Stock Exchange",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg",
+        "location": "40\u00b042\u203225\u2033N 74\u00b000\u203240\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange"
+    },
+    {
+        "name": "New York Studio School of Drawing, Painting and Sculpture",
+        "image": "https://en.wikipedia.org/wiki/File:8-14-eighth_street.jpg",
+        "location": "40\u00b043\u203259\u2033N 73\u00b059\u203254\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Studio_School_of_Drawing,_Painting_and_Sculpture"
+    },
+    {
+        "name": "New York Yacht Club",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_City,_1_Aug_08_(2724442429).jpg",
+        "location": "40\u00b045\u203220\u2033N 73\u00b058\u203254\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York_Yacht_Club"
+    },
+    {
+        "name": "Old Merchant's House",
+        "image": "https://en.wikipedia.org/wiki/File:Merchant%27s_House_Museum_(48072654706).jpg",
+        "location": "40\u00b043\u203239\u2033N 73\u00b059\u203233\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Old_Merchant's_House"
+    },
+    {
+        "name": "Old Quaker Meeting House",
+        "image": "https://en.wikipedia.org/wiki/File:Old-quaker-house-flushing.jpg",
+        "location": "40\u00b045\u203247\u2033N 73\u00b049\u203249\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Old_Quaker_Meeting_House"
+    },
+    {
+        "name": "Philosophy Hall",
+        "image": "https://en.wikipedia.org/wiki/File:Columbia_University,_NYC_(June_2014)_-_25.JPG",
+        "location": "40\u00b048\u203222\u2033N 73\u00b057\u203245\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philosophy_Hall"
+    },
+    {
+        "name": "Players Club",
+        "image": "https://en.wikipedia.org/wiki/File:The_Players_(New_York_City)_(51708610067).jpg",
+        "location": "40\u00b044\u203215\u2033N 73\u00b059\u203213\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Players_Club"
+    },
+    {
+        "name": "Plaza Hotel",
+        "image": "https://en.wikipedia.org/wiki/File:New_York_-_Manhattan_-_Plaza_Hotel.jpg",
+        "location": "40\u00b045\u203253\u2033N 73\u00b058\u203228\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Plaza_Hotel"
+    },
+    {
+        "name": "Plymouth Church of the Pilgrims",
+        "image": "https://en.wikipedia.org/wiki/File:Plymouth_Congregationalist_Ch_snow_jeh.jpg",
+        "location": "40\u00b041\u203257\u2033N 73\u00b059\u203237\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Plymouth_Church_of_the_Pilgrims"
+    },
+    {
+        "name": "Pupin Physics Laboratory, Columbia University",
+        "image": "https://en.wikipedia.org/wiki/File:Columbia_University_-_Department_of_Physics_(48170362276).jpg",
+        "location": "40\u00b048\u203236\u2033N 73\u00b057\u203242\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pupin_Physics_Laboratory,_Columbia_University"
+    },
+    {
+        "name": "Quarters A, Brooklyn Navy Yard",
+        "image": "https://en.wikipedia.org/wiki/File:Quartersabloomjeh.jpg",
+        "location": "40\u00b042\u203209\u2033N 73\u00b058\u203252\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quarters_A,_Brooklyn_Navy_Yard"
+    },
+    {
+        "name": "Paul Robeson Home",
+        "image": "https://en.wikipedia.org/wiki/File:555-edgecombe.jpg",
+        "location": "40\u00b050\u203204\u2033N 73\u00b056\u203220\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paul_Robeson_Home"
+    },
+    {
+        "name": "Jackie Robinson House",
+        "image": "https://en.wikipedia.org/wiki/File:Jackie-robinson-house.jpg",
+        "location": "40\u00b038\u203254\u2033N 73\u00b054\u203254\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jackie_Robinson_House"
+    },
+    {
+        "name": "Rockefeller Center",
+        "image": "https://en.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG",
+        "location": "40\u00b045\u203231\u2033N 73\u00b058\u203245\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rockefeller_Center"
+    },
+    {
+        "name": "Sailors' Snug Harbor",
+        "image": "https://en.wikipedia.org/wiki/File:Sailors-snug-harbor.jpg",
+        "location": "40\u00b038\u203233\u2033N 74\u00b006\u203210\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sailors'_Snug_Harbor"
+    },
+    {
+        "name": "St. Ann and the Holy Trinity Church",
+        "image": "https://en.wikipedia.org/wiki/File:St-ann-brooklyn-heights.JPG",
+        "location": "40\u00b041\u203240\u2033N 73\u00b059\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/St._Ann_and_the_Holy_Trinity_Church"
+    },
+    {
+        "name": "St. George's Episcopal Church",
+        "image": "https://en.wikipedia.org/wiki/File:George_CoE_Stuy_Square_cloudy_jeh.jpg",
+        "location": "40\u00b044\u203204\u2033N 73\u00b059\u203206\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/St._George's_Episcopal_Church"
+    },
+    {
+        "name": "St. Patrick's Cathedral",
+        "image": "https://en.wikipedia.org/wiki/File:Saint_Patrick%27s_Cathedral,_looking_upwards.jpg",
+        "location": "40\u00b045\u203231\u2033N 73\u00b058\u203235\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/St._Patrick's_Cathedral"
+    },
+    {
+        "name": "St. Paul's Chapel",
+        "image": "https://en.wikipedia.org/wiki/File:St._Paul%27s_Chapel_-_NYC_(51522449420).jpg",
+        "location": "40\u00b042\u203241\u2033N 74\u00b000\u203236\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/St._Paul's_Chapel"
+    },
+    {
+        "name": "Margaret Sanger Clinic",
+        "image": "https://en.wikipedia.org/wiki/File:17-23_West_16th_St.jpg",
+        "location": "40\u00b044\u203217\u2033N 73\u00b059\u203239\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Margaret_Sanger_Clinic"
+    },
+    {
+        "name": "Schomburg Center for Research in Black Culture",
+        "image": "https://en.wikipedia.org/wiki/File:Schomburg_NYPL_sunny_midday_jeh.jpg",
+        "location": "40\u00b048\u203252\u2033N 73\u00b056\u203229\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture"
+    },
+    {
+        "name": "Gen. Winfield Scott House",
+        "image": "https://en.wikipedia.org/wiki/File:24-west-12th.jpg",
+        "location": "40\u00b044\u203206\u2033N 73\u00b059\u203245\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gen._Winfield_Scott_House"
+    },
+    {
+        "name": "Seventh Regiment Armory",
+        "image": "https://en.wikipedia.org/wiki/File:Seventh_Regiment_Armory_-_Park_Avenue_Armory_-_Front_(48377217362).jpg",
+        "location": "40\u00b046\u203203\u2033N 73\u00b057\u203258\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Seventh_Regiment_Armory"
+    },
+    {
+        "name": "Harry F. Sinclair House",
+        "image": "https://en.wikipedia.org/wiki/File:Photograph_of_the_Harry_F_Sinclair_House_from_79th--NYC_(cropped).jpg",
+        "location": "40\u00b046\u203236\u2033N 73\u00b057\u203249\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harry_F._Sinclair_House"
+    },
+    {
+        "name": "Alfred E. Smith House",
+        "image": "https://en.wikipedia.org/wiki/File:Alfred-e-smith-house.jpg",
+        "location": "40\u00b042\u203248\u2033N 73\u00b059\u203253\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alfred_E._Smith_House"
+    },
+    {
+        "name": "SoHo-Cast Iron Historic District",
+        "image": "https://en.wikipedia.org/wiki/File:Cast-Iron_451-Broome-Street_from_Greene_Street.jpg",
+        "location": "40\u00b043\u203228\u2033N 74\u00b000\u203205\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/SoHo-Cast_Iron_Historic_District"
+    },
+    {
+        "name": "A. T. Stewart Company Store",
+        "image": "https://en.wikipedia.org/wiki/File:280-broadway.jpg",
+        "location": "40\u00b042\u203251\u2033N 74\u00b000\u203222\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/A._T._Stewart_Company_Store"
+    },
+    {
+        "name": "Stonewall",
+        "image": "https://en.wikipedia.org/wiki/File:Stonewall_inn_ny_2008.jpg",
+        "location": "40\u00b044\u203202\u2033N 74\u00b000\u203208\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stonewall"
+    },
+    {
+        "name": "St. Bartholomew's Church and Community House",
+        "image": "https://en.wikipedia.org/wiki/File:St_Bartholomew%27s_Church_1_(4691002951).jpg",
+        "location": "40\u00b045\u203226\u2033N 73\u00b058\u203225\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/St._Bartholomew's_Church_and_Community_House"
+    },
+    {
+        "name": "Surrogate's Court",
+        "image": "https://en.wikipedia.org/wiki/File:Surrogate%27s_Court_Splendor.jpg",
+        "location": "40\u00b042\u203249\u2033N 74\u00b000\u203217\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Surrogate's_Court"
+    },
+    {
+        "name": "Tenement Building at 97 Orchard Street",
+        "image": "https://en.wikipedia.org/wiki/File:The_Tenement_Museum_(51624759160).jpg",
+        "location": "40\u00b043\u203207\u2033N 73\u00b059\u203225\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tenement_Building_at_97_Orchard_Street"
+    },
+    {
+        "name": "Third Judicial District Courthouse",
+        "image": "https://en.wikipedia.org/wiki/File:Jefferson_Market_Library,_Greenwich_Village,_NY_(4).jpg",
+        "location": "40\u00b044\u203205\u2033N 73\u00b059\u203257\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Third_Judicial_District_Courthouse"
+    },
+    {
+        "name": "Tiffany and Company Building",
+        "image": "https://en.wikipedia.org/wiki/File:WTM3_NYU_FC_2_0075.jpg",
+        "location": "40\u00b045\u203200\u2033N 73\u00b058\u203253\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tiffany_and_Company_Building"
+    },
+    {
+        "name": "Samuel J. Tilden House",
+        "image": "https://en.wikipedia.org/wiki/File:National-arts-club.jpg",
+        "location": "40\u00b044\u203215\u2033N 73\u00b059\u203214\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_J._Tilden_House"
+    },
+    {
+        "name": "The Town Hall",
+        "image": "https://en.wikipedia.org/wiki/File:Ny-town-hall.jpg",
+        "location": "40\u00b045\u203222\u2033N 73\u00b059\u203205\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Town_Hall"
+    },
+    {
+        "name": "Triangle Shirtwaist Factory",
+        "image": "https://en.wikipedia.org/wiki/File:Asch-brown-triangle-shirtwaist-fire-building.JPG",
+        "location": "40\u00b043\u203248\u2033N 73\u00b059\u203245\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory"
+    },
+    {
+        "name": "Trinity Church",
+        "image": "https://en.wikipedia.org/wiki/File:Trinity_Church,_Manhattan_spire.jpg",
+        "location": "40\u00b042\u203229\u2033N 74\u00b000\u203244\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trinity_Church"
+    },
+    {
+        "name": "Old New York County Courthouse",
+        "image": "https://en.wikipedia.org/wiki/File:Tweed_Court_front_East_sun_jeh.jpg",
+        "location": "40\u00b042\u203247\u2033N 74\u00b000\u203222\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Old_New_York_County_Courthouse"
+    },
+    {
+        "name": "Union Square",
+        "image": "https://en.wikipedia.org/wiki/File:1_new_york_city_union_square_2010.JPG",
+        "location": "40\u00b044\u203208\u2033N 73\u00b059\u203226\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Union_Square"
+    },
+    {
+        "name": "United Charities Building",
+        "image": "https://en.wikipedia.org/wiki/File:United_Charities_Building_Complex_(51708609742).jpg",
+        "location": "40\u00b044\u203222\u2033N 73\u00b059\u203211\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Charities_Building"
+    },
+    {
+        "name": "United Workers Cooperatives",
+        "image": "https://en.wikipedia.org/wiki/File:United_Workers_Cooperatives,_2700-2870_Bronx_Park_E,_Bronx_County,_New_York.JPG",
+        "location": "40\u00b051\u203259\u2033N 73\u00b052\u203211\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Workers_Cooperatives"
+    },
+    {
+        "name": "U.S. Customhouse",
+        "image": "https://en.wikipedia.org/wiki/File:Alexander_Hamilton_U-S_Custom_House_001-002_combined_(edit).JPG",
+        "location": "40\u00b042\u203215\u2033N 74\u00b000\u203250\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/U.S._Customhouse"
+    },
+    {
+        "name": "University Heights Campus (Bronx Community College of the City University of New York)",
+        "image": "https://en.wikipedia.org/wiki/File:Bronx_Community_College_Library_exterior_-2_(cropped).jpg",
+        "location": "40\u00b051\u203228\u2033N 73\u00b054\u203244\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/University_Heights_Campus_(Bronx_Community_College_of_the_City_University_of_New_York)"
+    },
+    {
+        "name": "Van Cortlandt House",
+        "image": "https://en.wikipedia.org/wiki/File:Van_Cortlandt_Mansion.jpg",
+        "location": "40\u00b053\u203224\u2033N 73\u00b053\u203247\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Van_Cortlandt_House"
+    },
+    {
+        "name": "Voorlezer's House",
+        "image": "https://en.wikipedia.org/wiki/File:Vorleezer-house.jpg",
+        "location": "40\u00b034\u203217\u2033N 74\u00b008\u203251\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Voorlezer's_House"
+    },
+    {
+        "name": "Wards Point Archeological Site",
+        "image": "https://en.wikipedia.org/wiki/File:Vicinity-of-wards-point-site.JPG",
+        "location": "40\u00b029\u203256\u2033N 74\u00b015\u203207\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wards_Point_Archeological_Site"
+    },
+    {
+        "name": "Woodlawn Cemetery",
+        "image": "https://en.wikipedia.org/wiki/File:Collis_Huntington_Mausoleum_1024.jpg",
+        "location": "40\u00b053\u203221\u2033N 73\u00b052\u203224\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Woodlawn_Cemetery"
+    },
+    {
+        "name": "Woolworth Building",
+        "image": "https://en.wikipedia.org/wiki/File:View_of_Woolworth_Building_fixed.jpg",
+        "location": "40\u00b042\u203244\u2033N 74\u00b000\u203229\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Woolworth_Building"
+    },
+    {
+        "name": "Wyckoff House",
+        "image": "https://en.wikipedia.org/wiki/File:Front_porch_walkway_20210821_192953892.jpg",
+        "location": "40\u00b038\u203240\u2033N 73\u00b055\u203215\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyckoff_House"
+    },
+    {
+        "name": "Wyckoff-Bennett Homestead",
+        "image": "https://en.wikipedia.org/wiki/File:Wyckoff-bennett-homestead.jpg",
+        "location": "40\u00b036\u203239\u2033N 73\u00b057\u203205\u2033W",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyckoff-Bennett_Homestead"
+    }
+]
